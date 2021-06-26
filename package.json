@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest",
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "lint-staged": "lint-staged"
@@ -46,7 +46,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "@types/jest": "^26.0.20",
+    "@types/jest": "^26.0.23",
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
@@ -57,9 +57,11 @@
     "eslint": "^7.26.0",
     "eslint-config-prettier": "^8.3.0",
     "husky": "^6.0.0",
+    "jest": "26.6.0",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.0",
-    "react-test-renderer": "^17.0.1"
+    "react-test-renderer": "^17.0.1",
+    "ts-jest": "26.6.0"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
@@ -71,5 +73,10 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "all"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "src(.*)$": "<rootDir>/src/$1"
+    }
   }
 }

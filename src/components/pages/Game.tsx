@@ -18,7 +18,7 @@ const Game: React.FC = () => {
   const [isCorrect, setIsCorrect] = useState<Answer>(answer.isNotSelected)
   const [isOver, setIsOver] = useState<boolean>(false)
   const [open, setOpen] = useState(false)
-  console.log(state)
+  // console.log(state)
   const initData = async () => {
     const url = createTargetUrl(state as string)
     const { questions, answers, extractSources } = await init(

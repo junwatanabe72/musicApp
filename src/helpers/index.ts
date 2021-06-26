@@ -1,6 +1,6 @@
-import { QUESTIONSNUMBER } from 'utils/constant'
-import { fetchData } from 'services'
-import { artists } from 'utils/constant/artist'
+import { QUESTIONSNUMBER } from '../utils/constant'
+import { fetchData } from '../services'
+import { artists } from '../utils/constant/artist'
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 const regex = /\(.*\)/g
@@ -12,7 +12,10 @@ const shuffle = (array: string[]): string[] => {
   return array
 }
 
-const extractValidSoundSources = (sources: Music[], key: string): Music[] => {
+export const extractValidSoundSources = (
+  sources: Music[],
+  key: string,
+): Music[] => {
   const artist = artists[key]
   const sourceNames = sources.map((music: Music) => music.trackName)
   const extractSources = sources.filter(function (value: Music, index: number) {
@@ -24,14 +27,14 @@ const extractValidSoundSources = (sources: Music[], key: string): Music[] => {
   return extractSources
 }
 
-const createTrackNames = (sources: Music[]): string[] => {
+export const createTrackNames = (sources: Music[]): string[] => {
   const sourceNames = sources.map((music: Music) => {
     return music.trackName
   })
   return sourceNames
 }
 
-const createQuestions = (sources: Music[], max: number): Music[] => {
+export const createQuestions = (sources: Music[], max: number): Music[] => {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const selectedList = [] as number[]
   const callback = (_: Music): Music => {
@@ -48,7 +51,7 @@ const createQuestions = (sources: Music[], max: number): Music[] => {
   const array = Array.from({ length: max }, callback)
   return array
 }
-const createAnswers = (
+export const createAnswers = (
   questions: Music[],
   trackNames: string[],
 ): string[][] => {
@@ -98,6 +101,8 @@ export const init = async (
     const questions = createQuestions(extractSources, QUESTIONSNUMBER)
     // console.log(questions)
     const answers = createAnswers(questions, trackNames)
+    // console.log(questions)
+    // console.log(answers)
     return { questions, answers, extractSources }
   } catch (e) {
     console.log(e)

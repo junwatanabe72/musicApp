@@ -13,11 +13,11 @@ const attribute = 'artistTerm'
 // export const targetUrl = `${host}?term=${term}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
 
 export const createTargetUrl = (key: string): string => {
-  console.log(key)
+  // console.log(key)
   const value = upperCaseArtists[key as keyof typeof upperCaseArtists]
     ? upperCaseArtists[key as keyof typeof upperCaseArtists]
     : artists[key]
-  console.log(encodeURIComponent(value))
+  // console.log(encodeURIComponent(value))
   return `${host}?term=${encodeURIComponent(
     value,
   )}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
@@ -35,6 +35,7 @@ export const imagePath = '../../../public/logo192.png'
 // howto
 export const howToText = '曲名を当てるだけ！'
 export const howToText2 = 'スピーカーをオンにしてお楽しみください！'
+export const howToText3 = 'アーティストを選択してね！'
 // ad
 export const ninjaID = '775269bed10e865976ced4b3e97329ca'
 

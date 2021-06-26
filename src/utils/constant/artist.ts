@@ -1,4 +1,4 @@
-const originalArtists = {
+export const originalArtists = {
   bts: 'BTS',
   // yuri: '優里',
   yonezugenshi: '米津玄師',
@@ -7,10 +7,11 @@ const originalArtists = {
   hentai: '変態紳士クラブ',
   higedan: 'Official髭男dism',
   // ado: 'Ado',
+  // lisa: 'LiSA',
   twice: 'TWICE',
   hoshinoGen: '星野源',
   eve: 'Eve',
-  dish: 'DISH//',
+  // dish: 'DISH//',
   sudaMasaki: '菅田 将暉',
   aimyon: 'あいみょん',
   makaroni: 'マカロニえんぴつ',
@@ -24,7 +25,8 @@ export const upperCaseArtists = {
   higedan: 'official髭男dism',
   // ado: 'ado',
   eve: 'eve',
-  dish: 'dish//',
+  // lisa: 'lisa',
+  // dish: 'dish//',
   mrChilren: 'mr.children',
 }
 
