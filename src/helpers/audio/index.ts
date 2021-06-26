@@ -1,6 +1,7 @@
 export const play = (
   audio: HTMLAudioElement,
-  music: any[],
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  music: Music[],
   num: number,
 ): void => {
   const { previewUrl } = music[num]
