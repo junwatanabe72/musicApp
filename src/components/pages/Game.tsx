@@ -1,15 +1,18 @@
 import React, { useState, useEffect } from 'react'
-import { play, stop } from 'helpers/audio'
-import { audio, answer, Answer, createTargetUrl } from 'utils/constant'
+import ReactHowler from 'react-howler'
+// import { play, stop } from 'helpers/audio'
+import { answer, Answer, createTargetUrl } from 'utils/constant'
 import { init, retry } from 'helpers'
 import Layout from 'components/templetes/Layout'
 import LoadingComponent from 'components/atoms/Loading'
 import AnswerDialog from 'components/atoms/AnswerDialog'
 import GameScreen from 'components/organisms/game/GameScreen'
 import { useLocation } from 'react-router-dom'
+// import { Adjust } from '@material-ui/icons'
 
 const Game: React.FC = () => {
   const { state } = useLocation()
+  const [playing, setPlaying] = useState(true)
   const [questions, setQuestions] = useState<Music[]>([])
   const [allSources, setAllSources] = useState<Music[]>([])
   const [answers, setAnswers] = useState<string[][]>([])
@@ -34,9 +37,17 @@ const Game: React.FC = () => {
     setAllSources(extractSources)
     setIsLoading(true)
     await new Promise((resolve) => setTimeout(resolve, 2000))
-    play(audio, questions, num)
+    // play(audio)
+    setPlaying(true)
+    // play(audio, questions, num)
     setIsLoading(false)
   }
+
+  // const soundStart = () => {
+  //   console.log(questions)
+  //   play(audio, questions, num)
+  //   // setIsLoading(false)
+  // }
   const retryData = async () => {
     setIsLoading(true)
     setIsOver(false)
@@ -46,7 +57,7 @@ const Game: React.FC = () => {
     setAnswers(answers)
     setAllSources(extractSources)
     await new Promise((resolve) => setTimeout(resolve, 2000))
-    play(audio, questions, num)
+    // play(audio, questions, num)
     setIsLoading(false)
   }
 
@@ -58,13 +69,13 @@ const Game: React.FC = () => {
       setIsLoading(false)
       setIsCorrect(answer.isNotSelected)
       setIsOver(true)
-      stop(audio)
+      // stop(audio)
       return
     }
     setNum((num) => {
       return num + 1
     })
-    play(audio, questions, num + 1)
+    // play(audio, questions, num + 1)
     setIsCorrect(answer.isNotSelected)
     setIsLoading(false)
   }
@@ -97,6 +108,21 @@ const Game: React.FC = () => {
 
   return (
     <Layout>
+      <ReactHowler
+        src="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ad/72/52/ad725245-4734-7389-da86-fb6556c3e959/mzaf_6507543987157019892.plus.aac.p.m4a"
+        playing={playing}
+      />
+      <div
+        onClick={() => {
+          setPlaying(!playing)
+        }}
+      >
+        click
+      </div>
+      {questions &&
+        questions.map((v, nu) => {
+          return <div key={nu}>{v.artistName}</div>
+        })}
       {isLoading ? (
         <LoadingComponent open={isLoading} />
       ) : (
