@@ -27,7 +27,7 @@ export const appTitle = 'KYOKUATE'
 export const QUESTIONSNUMBER = 10
 // head
 export const description =
-  '不動産売却時に長期譲渡所得と見做されるか、不動産の所有期間を判別するアプリケーションです！'
+  '流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！'
 export const url = 'https://real-estate-holding-period-checker.work/'
 export const iTunesUrl = 'https://www.apple.com/jp/itunes/'
 export const imagePath = '../../../public/logo192.png'
