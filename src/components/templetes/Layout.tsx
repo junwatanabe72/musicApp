@@ -5,8 +5,12 @@ import AdmaxSwitch from 'components/templetes/Ninja'
 import { StyledA } from 'utils/styled/common'
 
 const Height = styled.div`
-  height: 90vh;
+  // height: 90vh;
   position: relative;
+`
+const ScreenHeight = styled.div`
+  // height: 80vh;
+  // position: relative;
 `
 const StyledContainer = styled.div`
   display: flex;
@@ -20,7 +24,7 @@ const AdHeight = styled.div`
 `
 const Bottom = styled.div`
   position: absolute;
-  bottom: 5vh;
+  bottom: -10vh;
 `
 
 const Layout: React.FC = ({ children }) => {
@@ -30,7 +34,7 @@ const Layout: React.FC = ({ children }) => {
         <AdHeight>
           <AdmaxSwitch id={ninjaID} />
         </AdHeight>
-        {children}
+        <ScreenHeight>{children}</ScreenHeight>
         <Bottom>
           このwebサイトは
           <StyledA href={iTunesUrl}>iTunes</StyledA>

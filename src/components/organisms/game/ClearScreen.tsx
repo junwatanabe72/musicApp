@@ -11,10 +11,10 @@ interface Props {
   questions: Music[]
   retry: () => Promise<void>
 }
-const Container = styled.div`
+const Container = styled(Padding)`
   font-size: 1.5em;
   ${media.phone`
-  font-size: 1.1em;
+  font-size: 1.3em;
       `}
 `
 const Flex = styled.div`
@@ -22,13 +22,19 @@ const Flex = styled.div`
   justify-content: center;
   align-items: center;
 `
+// const Column = styled.div`
+//   display: flex;
+//   justify-content: space-around;
+//   align-items: center;
+//   flex-direction: column;
+// `
 
 const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
   return (
-    <Container>
-      <Padding all={CLEAR.XSMALL}>
-        <GameHeadText value={'GAME CLEAR !!'} />
-        <Padding all={CLEAR.TINY}>今回のセットリスト</Padding>
+    <>
+      <GameHeadText value={'GAME CLEAR !!'} />
+      <Container>今回のセットリスト</Container>
+      <Container>
         {questions.map((value: Music, number: number) => {
           return (
             <div key={number}>
@@ -39,31 +45,31 @@ const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
             </div>
           )
         })}
-        <Padding all={CLEAR.TINY}>
-          「{questions[0].artistName}」の曲は
-          <StyledA href={questions[0].artistViewUrl}>ここ</StyledA>
-          からダウンロードできます！
-        </Padding>
-        <Padding all={CLEAR.TINY}>
-          <Flex>
-            <Button
-              size="large"
-              variant="contained"
-              color="primary"
-              onClick={() => {
-                retry()
-              }}
-            >
-              retry
-            </Button>
-            <Padding all={CLEAR.TINY} />
-            <Button size="large" variant="contained" color="secondary">
-              <Link to={'/'}>Top page</Link>
-            </Button>
-          </Flex>
-        </Padding>
-      </Padding>
-    </Container>
+      </Container>
+      <Container>
+        「{questions[0].artistName}」の曲は
+        <StyledA href={questions[0].artistViewUrl}>ここ</StyledA>
+        からダウンロードできます！
+      </Container>
+      <Container>
+        <Flex>
+          <Button
+            size="large"
+            variant="contained"
+            color="primary"
+            onClick={() => {
+              retry()
+            }}
+          >
+            retry
+          </Button>
+          <Padding all={CLEAR.TINY} />
+          <Button size="large" variant="contained" color="secondary">
+            <Link to={'/'}>Top page</Link>
+          </Button>
+        </Flex>
+      </Container>
+    </>
   )
 }
 

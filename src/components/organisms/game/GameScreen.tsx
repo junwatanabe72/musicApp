@@ -16,18 +16,22 @@ interface Props {
   onClick: (trakName: string) => Promise<void>
   retry: () => Promise<void>
 }
-const Con = styled.div`
-  // position: relative;
-`
 const Container = styled.div`
+  height: 70vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
 `
+// const Container = styled.div`
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   flex-direction: column;
+// `
 const Bottom = styled.div`
   position: absolute;
-  bottom: 12vh;
+  bottom: -6vh;
 `
 
 const GameScreen: React.FC<Props> = ({
@@ -39,16 +43,16 @@ const GameScreen: React.FC<Props> = ({
   retry,
 }) => {
   return (
-    <Con>
+    <Container>
       {isOver ? (
         <ClearScreen questions={questions} retry={retry} />
       ) : (
-        <Container>
-          <Padding top={CLEAR.SMALL}>
+        <>
+          <Padding>
             <GameHeadText value={`${questions[num]?.artistName ?? ''}`} />
             <GameHeadText value={`第${num + 1}問 / ${QUESTIONSNUMBER}問`} />
           </Padding>
-          <Padding top={CLEAR.SMALL} />
+          {/* <Padding top={CLEAR.XSMALL} /> */}
           <Grid
             container
             direction="column"
@@ -80,9 +84,9 @@ const GameScreen: React.FC<Props> = ({
               </Padding>
             </Bottom>
           )}
-        </Container>
+        </>
       )}
-    </Con>
+    </Container>
   )
 }
 

@@ -57,12 +57,11 @@ export const retry = (
 ): {
   questions: Music[]
   answers: string[][]
-  extractSources: Music[]
 } => {
   const trackNames = createTrackNames(extractSources)
   const questions = createQuestions(extractSources, QUESTIONSNUMBER)
   const answers = createAnswers(questions, trackNames)
-  return { questions, answers, extractSources }
+  return { questions, answers }
 }
 
 export const init = (
@@ -70,12 +69,11 @@ export const init = (
 ): {
   questions: Music[]
   answers: string[][]
-  extractSources: Music[]
 } => {
   const extractSources: Music[] =
     artistMusicData[key as keyof typeof artistMusicData]
   const trackNames = createTrackNames(extractSources)
   const questions = createQuestions(extractSources, QUESTIONSNUMBER)
   const answers = createAnswers(questions, trackNames)
-  return { questions, answers, extractSources }
+  return { questions, answers }
 }

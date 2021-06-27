@@ -7,32 +7,30 @@ import LoadingComponent from 'components/atoms/Loading'
 import AnswerDialog from 'components/atoms/AnswerDialog'
 import GameScreen from 'components/organisms/game/GameScreen'
 import { useLocation } from 'react-router-dom'
+import { artistMusicData } from 'store'
 
 const Game: React.FC = () => {
   const { state } = useLocation()
   const [playing, setPlaying] = useState(false)
   const [questions, setQuestions] = useState<Music[]>([])
-  const [allSources, setAllSources] = useState<Music[]>([])
   const [answers, setAnswers] = useState<string[][]>([])
   const [num, setNum] = useState<number>(0)
   const [isLoading, setIsLoading] = useState<boolean>(false)
   const [isCorrect, setIsCorrect] = useState<Answer>(answer.isNotSelected)
   const [isOver, setIsOver] = useState<boolean>(false)
   const [open, setOpen] = useState(false)
-  // console.log(state)
+
   const initData = async () => {
-    // const url = createTargetUrl(state as string)
-    const { questions, answers, extractSources } = init(state as string)
+    const { questions, answers } = init(state as string)
     if (questions.length === 0) {
       setIsLoading(false)
       return
     }
     setQuestions(questions)
-    setAnswers(answers)
-    setAllSources(extractSources)
-    setIsLoading(true)
-    await new Promise((resolve) => setTimeout(resolve, 2000))
     setPlaying(true)
+    setAnswers(answers)
+    setIsLoading(true)
+    await new Promise((resolve) => setTimeout(resolve, 3000))
     setIsLoading(false)
   }
 
@@ -40,54 +38,61 @@ const Game: React.FC = () => {
     setIsLoading(true)
     setIsOver(false)
     setNum(0)
-    const { questions, answers, extractSources } = retry(allSources)
+    const { questions, answers } = retry(
+      artistMusicData[state as keyof typeof artistMusicData],
+    )
     setQuestions(questions)
     setAnswers(answers)
-    setAllSources(extractSources)
-    await new Promise((resolve) => setTimeout(resolve, 2000))
+    await new Promise((resolve) => setTimeout(resolve, 3000))
     setIsLoading(false)
     setPlaying(true)
   }
 
-  const handleChangeNum = () => {
-    if (!isLoading) {
-      setIsLoading(true)
-    }
+  const inCorrectAction = async (): Promise<void> => {
+    setIsCorrect(answer.isIncorrect)
+    setOpen(true)
+    await new Promise((resolve) => setTimeout(resolve, 1000))
+    setIsCorrect(answer.isNotSelected)
+    setOpen(false)
+    return
+  }
+
+  const correctAction = async (): Promise<void> => {
+    setIsCorrect(answer.isCorrect)
+    setOpen(true)
     if (num === questions.length - 1) {
-      setIsLoading(false)
+      await new Promise((resolve) => setTimeout(resolve, 1000))
       setIsCorrect(answer.isNotSelected)
       setIsOver(true)
-      setPlaying(false)
+      setOpen(false)
       return
     }
+    await new Promise((resolve) => setTimeout(resolve, 2000))
     setNum((num) => {
       return num + 1
     })
     setIsCorrect(answer.isNotSelected)
-    setIsLoading(false)
+    setOpen(false)
+    await new Promise((resolve) => setTimeout(resolve, 3000))
+
+    return
   }
+
   const onClick = async (trakName: string): Promise<void> => {
     if (!questions[num] || isLoading) {
       return
     }
     setIsLoading(true)
     if (trakName !== questions[num].trackName) {
-      setIsCorrect(answer.isIncorrect)
-      setOpen(true)
-      await new Promise((resolve) => setTimeout(resolve, 1000))
-      setIsCorrect(answer.isNotSelected)
-      setOpen(false)
+      await inCorrectAction()
       setIsLoading(false)
       return
     }
-    setIsCorrect(answer.isCorrect)
-    setOpen(true)
-    await new Promise((resolve) => setTimeout(resolve, 3000))
+    await correctAction()
     setIsLoading(false)
-    setOpen(false)
-    handleChangeNum()
     return
   }
+
   useEffect(() => {
     initData()
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -95,11 +100,14 @@ const Game: React.FC = () => {
 
   return (
     <Layout>
-      <ReactHowler
-        src={[questions[num]?.previewUrl ?? '']}
-        playing={playing}
-        loop={true}
-      />
+      {questions && (
+        <ReactHowler
+          src={[questions[num]?.previewUrl ?? '']}
+          playing={playing}
+          loop={true}
+          preload={true}
+        />
+      )}
       {isLoading ? (
         <LoadingComponent open={isLoading} />
       ) : (
