@@ -1,14 +1,12 @@
 import React, { useState, useEffect } from 'react'
 import ReactHowler from 'react-howler'
-// import { play, stop } from 'helpers/audio'
-import { answer, Answer, createTargetUrl } from 'utils/constant'
+import { answer, Answer } from 'utils/constant'
 import { init, retry } from 'helpers'
 import Layout from 'components/templetes/Layout'
 import LoadingComponent from 'components/atoms/Loading'
 import AnswerDialog from 'components/atoms/AnswerDialog'
 import GameScreen from 'components/organisms/game/GameScreen'
 import { useLocation } from 'react-router-dom'
-// import { Adjust } from '@material-ui/icons'
 
 const Game: React.FC = () => {
   const { state } = useLocation()
@@ -23,11 +21,8 @@ const Game: React.FC = () => {
   const [open, setOpen] = useState(false)
   // console.log(state)
   const initData = async () => {
-    const url = createTargetUrl(state as string)
-    const { questions, answers, extractSources } = await init(
-      url,
-      state as string,
-    )
+    // const url = createTargetUrl(state as string)
+    const { questions, answers, extractSources } = init(state as string)
     if (questions.length === 0) {
       setIsLoading(false)
       return
@@ -37,17 +32,10 @@ const Game: React.FC = () => {
     setAllSources(extractSources)
     setIsLoading(true)
     await new Promise((resolve) => setTimeout(resolve, 2000))
-    // play(audio)
     setPlaying(true)
-    // play(audio, questions, num)
     setIsLoading(false)
   }
 
-  // const soundStart = () => {
-  //   console.log(questions)
-  //   play(audio, questions, num)
-  //   // setIsLoading(false)
-  // }
   const retryData = async () => {
     setIsLoading(true)
     setIsOver(false)
@@ -57,7 +45,6 @@ const Game: React.FC = () => {
     setAnswers(answers)
     setAllSources(extractSources)
     await new Promise((resolve) => setTimeout(resolve, 2000))
-    // play(audio, questions, num)
     setIsLoading(false)
     setPlaying(true)
   }
@@ -71,13 +58,11 @@ const Game: React.FC = () => {
       setIsCorrect(answer.isNotSelected)
       setIsOver(true)
       setPlaying(false)
-      // stop(audio)
       return
     }
     setNum((num) => {
       return num + 1
     })
-    // play(audio, questions, num + 1)
     setIsCorrect(answer.isNotSelected)
     setIsLoading(false)
   }

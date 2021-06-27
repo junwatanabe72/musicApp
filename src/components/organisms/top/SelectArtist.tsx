@@ -1,7 +1,7 @@
 import React from 'react'
 import MenuItem from '@material-ui/core/MenuItem'
 import Select from '@material-ui/core/Select'
-import { artists } from 'utils/constant/artist'
+import { sortedArtists } from 'store'
 
 interface Props {
   targetArtist: string
@@ -19,7 +19,7 @@ const SelectArtist: React.FC<Props> = ({ targetArtist, handleChange }) => {
       value={targetArtist}
       onChange={handleChange}
     >
-      {Object.entries(artists).map(([key, value]) => {
+      {Object.entries(sortedArtists).map(([key, value]) => {
         return (
           <MenuItem key={key} value={key}>
             {value}

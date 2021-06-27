@@ -60,8 +60,8 @@ describe('helper', () => {
       const trackNames = createTrackNames(sources as Music[])
       const answers = createAnswers(questions, trackNames)
       const result = questions.filter((question, num) => {
-        console.log(question.trackName)
-        console.log(answers[num])
+        // console.log(question.trackName)
+        // console.log(answers[num])
         return !answers[num].includes(question.trackName)
       })
       expect(result.length).toBe(0)

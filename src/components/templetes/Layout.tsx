@@ -5,7 +5,7 @@ import AdmaxSwitch from 'components/templetes/Ninja'
 import { StyledA } from 'utils/styled/common'
 
 const Height = styled.div`
-  height: 100vh;
+  height: 90vh;
   position: relative;
 `
 const StyledContainer = styled.div`
@@ -20,7 +20,7 @@ const AdHeight = styled.div`
 `
 const Bottom = styled.div`
   position: absolute;
-  bottom: 10vh;
+  bottom: 5vh;
 `
 
 const Layout: React.FC = ({ children }) => {

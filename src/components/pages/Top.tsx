@@ -4,7 +4,6 @@ import { appTitle } from 'utils/constant'
 import HowTo from 'components/organisms/top/HowTo'
 import Layout from 'components/templetes/Layout'
 import Button from '@material-ui/core/Button'
-import SoundManager from 'hook/SoundManager'
 import { Padding } from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
 import SelectArtist from 'components/organisms/top/SelectArtist'
@@ -14,7 +13,6 @@ const TopPage: React.FC = () => {
   const handleChange = (event: React.ChangeEvent<{ value: unknown }>) => {
     setTargetArtist(event.target.value as string)
   }
-  SoundManager()
   const contents = [
     <h1 key={0}>{appTitle}</h1>,
     <HowTo key={1} />,

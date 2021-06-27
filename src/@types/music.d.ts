@@ -16,8 +16,6 @@ type Music = {
   artworkUrl30: string
   artworkUrl60: string
   artworkUrl100: string
-  collectionPrice: number
-  trackPrice: number
   releaseDate: string
   collectionExplicitness: string
   trackExplicitness: string
@@ -29,4 +27,11 @@ type Music = {
   country: string
   currency: string
   primaryGenreName: string
+  isStreamable: boolean
+  collectionPrice?: number
+  trackPrice?: number
+  collectionArtistId?: number
+  collectionArtistName?: string
+  collectionArtistViewUrl?: string
+  contentAdvisoryRating?: string
 }

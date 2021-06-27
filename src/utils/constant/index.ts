@@ -1,7 +1,7 @@
-import { artists, upperCaseArtists } from './artist'
+import { sortedArtists, lowerCaseArtists } from '../../store'
 
 //app
-export const audio = new Audio()
+// export const audio = new Audio()
 const host = 'https://itunes.apple.com/search'
 // export const term = 'mr.children'
 const media = 'music'
@@ -14,9 +14,9 @@ const attribute = 'artistTerm'
 
 export const createTargetUrl = (key: string): string => {
   // console.log(key)
-  const value = upperCaseArtists[key as keyof typeof upperCaseArtists]
-    ? upperCaseArtists[key as keyof typeof upperCaseArtists]
-    : artists[key]
+  const value = lowerCaseArtists[key as keyof typeof lowerCaseArtists]
+    ? lowerCaseArtists[key as keyof typeof lowerCaseArtists]
+    : sortedArtists[key]
   // console.log(encodeURIComponent(value))
   return `${host}?term=${encodeURIComponent(
     value,
@@ -24,7 +24,7 @@ export const createTargetUrl = (key: string): string => {
 }
 // string
 export const appTitle = 'KYOKUATE'
-export const QUESTIONSNUMBER = 10
+export const QUESTIONSNUMBER = 3
 // head
 export const description =
   '流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！'
