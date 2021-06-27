@@ -12,7 +12,7 @@ import { useLocation } from 'react-router-dom'
 
 const Game: React.FC = () => {
   const { state } = useLocation()
-  const [playing, setPlaying] = useState(true)
+  const [playing, setPlaying] = useState(false)
   const [questions, setQuestions] = useState<Music[]>([])
   const [allSources, setAllSources] = useState<Music[]>([])
   const [answers, setAnswers] = useState<string[][]>([])
@@ -59,6 +59,7 @@ const Game: React.FC = () => {
     await new Promise((resolve) => setTimeout(resolve, 2000))
     // play(audio, questions, num)
     setIsLoading(false)
+    setPlaying(true)
   }
 
   const handleChangeNum = () => {
@@ -69,6 +70,7 @@ const Game: React.FC = () => {
       setIsLoading(false)
       setIsCorrect(answer.isNotSelected)
       setIsOver(true)
+      setPlaying(false)
       // stop(audio)
       return
     }
@@ -109,20 +111,10 @@ const Game: React.FC = () => {
   return (
     <Layout>
       <ReactHowler
-        src="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ad/72/52/ad725245-4734-7389-da86-fb6556c3e959/mzaf_6507543987157019892.plus.aac.p.m4a"
+        src={[questions[num]?.previewUrl ?? '']}
         playing={playing}
+        loop={true}
       />
-      <div
-        onClick={() => {
-          setPlaying(!playing)
-        }}
-      >
-        click
-      </div>
-      {questions &&
-        questions.map((v, nu) => {
-          return <div key={nu}>{v.artistName}</div>
-        })}
       {isLoading ? (
         <LoadingComponent open={isLoading} />
       ) : (
