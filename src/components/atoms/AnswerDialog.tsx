@@ -65,7 +65,10 @@ const AnswerDialog: React.FC<Props> = ({ open, question, isCorrect }) => {
           {isCorrect === answer.isCorrect && (
             <DialogContent>
               <DialogContentText id="alert-dialog-description">
-                <Container>{question.trackName} </Container>
+                <Flex>
+                  <Container>{question.trackName} </Container>
+                  <img src={question.artworkUrl100} />
+                </Flex>
               </DialogContentText>
             </DialogContent>
           )}

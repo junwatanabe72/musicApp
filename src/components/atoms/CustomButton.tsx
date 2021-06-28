@@ -16,6 +16,7 @@ const StyledButton = styled(Button)`
   color: ${(props) => props.theme.palette.common.black};
   ${media.phone`
   width: 80vw;
+  height: 8vh;
   font-size: 1.5em;
       `}
 `

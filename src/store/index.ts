@@ -6,13 +6,17 @@ import { yoasobi } from './artist/yoasobi'
 import { hentai } from './artist/hentai'
 import { twice } from './artist/twice'
 import { hoshinoGen } from './artist/hoshinoGen'
-
+import { yonezugenshi } from './artist/yonezugenshi'
 import { eve } from './artist/eve'
 import { sudaMasaki } from './artist/sudaMasaki'
 import { makaroni } from './artist/makaroni'
 import { yorushika } from './artist/yorushika'
 import { yuzu } from './artist/yuzu'
 import { mrChilren } from './artist/mrChilren'
+import { yama } from './artist/yama'
+import { perfume } from './artist/perfume'
+import { utadaHikaru } from './artist/utadaHikaru'
+import { oneOkRock } from './artist/oneOkRock'
 
 export const artistMusicData = {
   aimyon,
@@ -28,7 +32,12 @@ export const artistMusicData = {
   makaroni,
   yorushika,
   yuzu,
+  yonezugenshi,
   mrChilren,
+  yama,
+  perfume,
+  utadaHikaru,
+  oneOkRock,
 }
 
 export const originalArtists = {
@@ -50,9 +59,12 @@ export const originalArtists = {
   aimyon: 'あいみょん',
   makaroni: 'マカロニえんぴつ',
   yorushika: 'ヨルシカ',
-  // yama: 'yama',
+  yama: 'yama',
   yuzu: 'ゆず',
   mrChilren: 'Mr.Children',
+  perfume: 'Perfume',
+  utadaHikaru: '宇多田ヒカル',
+  oneOkRock: 'ONE OK ROCK',
 }
 export const lowerCaseArtists = {
   bts: 'bts',
@@ -64,6 +76,8 @@ export const lowerCaseArtists = {
   // dish: 'dish//',
   backNumber: 'back+number',
   mrChilren: 'mr.children',
+  perfume: 'perfume',
+  oneOkRock: 'one+ok+rock',
 }
 
 const tmp = Object.entries(originalArtists)

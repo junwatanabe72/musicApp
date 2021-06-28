@@ -30,7 +30,7 @@ const Game: React.FC = () => {
     setPlaying(true)
     setAnswers(answers)
     setIsLoading(true)
-    await new Promise((resolve) => setTimeout(resolve, 3000))
+    await new Promise((resolve) => setTimeout(resolve, 1000))
     setIsLoading(false)
   }
 
@@ -43,7 +43,7 @@ const Game: React.FC = () => {
     )
     setQuestions(questions)
     setAnswers(answers)
-    await new Promise((resolve) => setTimeout(resolve, 3000))
+    await new Promise((resolve) => setTimeout(resolve, 1000))
     setIsLoading(false)
     setPlaying(true)
   }
@@ -67,13 +67,13 @@ const Game: React.FC = () => {
       setOpen(false)
       return
     }
-    await new Promise((resolve) => setTimeout(resolve, 2000))
+    await new Promise((resolve) => setTimeout(resolve, 3000))
     setNum((num) => {
       return num + 1
     })
     setIsCorrect(answer.isNotSelected)
     setOpen(false)
-    await new Promise((resolve) => setTimeout(resolve, 3000))
+    // await new Promise((resolve) => setTimeout(resolve, 3000))
 
     return
   }
@@ -108,18 +108,16 @@ const Game: React.FC = () => {
           preload={true}
         />
       )}
-      {isLoading ? (
-        <LoadingComponent open={isLoading} />
-      ) : (
-        <GameScreen
-          isOver={isOver}
-          questions={questions}
-          answers={answers[num]}
-          onClick={onClick}
-          retry={retryData}
-          num={num}
-        />
-      )}
+
+      <GameScreen
+        isOver={isOver}
+        questions={questions}
+        answers={answers[num]}
+        onClick={onClick}
+        retry={retryData}
+        num={num}
+      />
+      {isLoading ? <LoadingComponent open={isLoading} /> : <></>}
       <AnswerDialog
         open={open}
         isCorrect={isCorrect}

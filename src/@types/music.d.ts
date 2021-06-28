@@ -1,4 +1,12 @@
 type Music = {
+  artistName: string
+  trackName: string
+  artistViewUrl: string
+  collectionViewUrl: string
+  previewUrl: string
+  artworkUrl100: string
+}
+type APIMusic = {
   wrapperType: string
   kind: string
   artistId: number

@@ -17,18 +17,12 @@ interface Props {
   retry: () => Promise<void>
 }
 const Container = styled.div`
-  height: 70vh;
+  height: 60vh;
   display: flex;
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
 `
-// const Container = styled.div`
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-//   flex-direction: column;
-// `
 const Bottom = styled.div`
   position: absolute;
   bottom: -6vh;
@@ -52,7 +46,6 @@ const GameScreen: React.FC<Props> = ({
             <GameHeadText value={`${questions[num]?.artistName ?? ''}`} />
             <GameHeadText value={`第${num + 1}問 / ${QUESTIONSNUMBER}問`} />
           </Padding>
-          {/* <Padding top={CLEAR.XSMALL} /> */}
           <Grid
             container
             direction="column"

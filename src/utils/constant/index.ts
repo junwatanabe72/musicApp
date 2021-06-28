@@ -24,7 +24,7 @@ export const createTargetUrl = (key: string): string => {
 }
 // string
 export const appTitle = 'KYOKUATE'
-export const QUESTIONSNUMBER = 3
+export const QUESTIONSNUMBER = 10
 // head
 export const description =
   '流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！'
