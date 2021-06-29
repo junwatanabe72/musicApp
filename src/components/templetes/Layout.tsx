@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { iTunesUrl, ninjaID } from 'utils/constant'
 import AdmaxSwitch from 'components/templetes/Ninja'
 import { Flex, StyledA } from 'utils/styled/common'
+import { media } from 'utils/styled/media'
 
 const Container = styled.div`
   position: relative;
@@ -15,7 +16,7 @@ const StyledContainer = styled(Flex)`
 `
 
 const Column = styled(Flex)`
-  height: 70vh;
+  height: 50vh;
   flex-direction: column;
 `
 const AdHeight = styled.div`
@@ -23,7 +24,10 @@ const AdHeight = styled.div`
 `
 const Bottom = styled.div`
   position: absolute;
-  bottom: -10vh;
+  bottom: -36vh;
+  ${media.phone`
+  bottom: -20vh;
+      `}
 `
 
 const Layout: React.FC = ({ children }) => {
