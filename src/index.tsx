@@ -1,15 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './App'
+import { ThemeProvider as StyledThemeProvider } from 'styled-components'
 import reportWebVitals from './reportWebVitals'
-import { GlobalStyle } from 'utils/styled/globalStyle'
+import { createStore } from 'redux'
+import { Provider } from 'react-redux'
 import {
   ThemeProvider as MaterialThemeProvider,
   StylesProvider,
 } from '@material-ui/styles'
-import { ThemeProvider as StyledThemeProvider } from 'styled-components'
-import theme from './utils/theme'
+import reducers from './reducer'
 import Head from 'components/templetes/Head'
+import { GlobalStyle } from 'utils/styled/globalStyle'
+import theme from './utils/theme'
+
+const store = createStore(reducers())
 
 ReactDOM.render(
   <React.StrictMode>
@@ -18,7 +23,9 @@ ReactDOM.render(
         <StyledThemeProvider theme={theme}>
           <GlobalStyle />
           <Head />
-          <App />
+          <Provider store={store}>
+            <App />
+          </Provider>
         </StyledThemeProvider>
       </MaterialThemeProvider>
     </StylesProvider>

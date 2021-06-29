@@ -10,7 +10,7 @@ import { Flex } from 'utils/styled/common'
 
 interface Props {
   questions: Music[]
-  retry: () => Promise<void>
+  retry: () => void
 }
 const Container = styled(Padding)`
   font-size: 1.5em;
