@@ -9,6 +9,7 @@ import {
   StyledA,
   JUSTIFYCONTENT,
   ALIGNITEMS,
+  Flex,
 } from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
 import ClearScreen from './ClearScreen'
@@ -23,14 +24,21 @@ interface Props {
   retry: () => Promise<void>
 }
 const Container = styled.div`
-  height: 60vh;
+  height: 40vh;
   ${media.phone`
   height: 40vh;
       `}
 `
-const Bottom = styled.div`
+const StyledContainer = styled(Flex)`
+  flex-direction: column;
+  text-align: center;
+`
+const Bottom = styled(Flex)`
   position: absolute;
-  bottom: -6vh;
+  bottom: -34vh;
+  ${media.phone`
+  bottom: -16vh;
+      `}
 `
 
 const GameScreen: React.FC<Props> = ({
@@ -72,15 +80,17 @@ const GameScreen: React.FC<Props> = ({
               })}
           </Grid>
           {questions[num - 1] && (
-            <Bottom>
-              <Padding all={CLEAR.TINY}>
-                「{questions[num - 1].trackName}」は
-                <StyledA href={questions[num - 1].collectionViewUrl}>
-                  ここ
-                </StyledA>
-                からダウンロードできます！
-              </Padding>
-            </Bottom>
+            <StyledContainer>
+              <Bottom>
+                <Padding all={CLEAR.TINY}>
+                  「{questions[num - 1].trackName}」は
+                  <StyledA href={questions[num - 1].collectionViewUrl}>
+                    ここ
+                  </StyledA>
+                  からダウンロードできます！
+                </Padding>
+              </Bottom>
+            </StyledContainer>
           )}
         </>
       )}
