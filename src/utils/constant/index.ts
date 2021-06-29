@@ -22,8 +22,8 @@ export const appTitle = 'KYOKUATE'
 export const QUESTIONSNUMBER = 10
 // head
 export const description =
-  '流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！'
-export const url = 'https://real-estate-holding-period-checker.work/'
+  'アーティスト別で流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！iphoneでも再生できます！'
+export const url = 'https://kyokuate.netlify.app/'
 export const iTunesUrl = 'https://www.apple.com/jp/itunes/'
 export const imagePath = '../../../public/logo192.png'
 
@@ -41,7 +41,7 @@ export const infoTexts = {
   infoText3: { content: '「EXILE」を追加しました！', date: '2021/6/28' },
 }
 // ad
-export const ninjaID = '775269bed10e865976ced4b3e97329ca'
+export const ninjaID = '4c4b0d6cd43a0a4edd0bbc2e900f85ff'
 
 // kyokuate
 export const answer = {
