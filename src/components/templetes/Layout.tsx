@@ -2,25 +2,21 @@ import React from 'react'
 import styled from 'styled-components'
 import { iTunesUrl, ninjaID } from 'utils/constant'
 import AdmaxSwitch from 'components/templetes/Ninja'
-import { StyledA } from 'utils/styled/common'
+import { Flex, StyledA } from 'utils/styled/common'
 
 const Container = styled.div`
   position: relative;
+  text-align: center;
 `
 
-const StyledContainer = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
+const StyledContainer = styled(Flex)`
   flex-direction: column;
   text-align: center;
 `
-const Flex = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+
+const Column = styled(Flex)`
   height: 70vh;
+  flex-direction: column;
 `
 const AdHeight = styled.div`
   height: 60px;
@@ -37,7 +33,7 @@ const Layout: React.FC = ({ children }) => {
         <AdHeight>
           <AdmaxSwitch id={ninjaID} />
         </AdHeight>
-        <Flex>{children}</Flex>
+        <Column>{children}</Column>
         <Bottom>
           このwebサイトは
           <StyledA href={iTunesUrl}>iTunes</StyledA>

@@ -1,11 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
+import { Button } from '@material-ui/core'
 import GameHeadText from 'components/atoms/GameHead'
 import { Padding, StyledA } from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
-import { Button } from '@material-ui/core'
 import { media } from 'utils/styled/media'
+import { Flex } from 'utils/styled/common'
 
 interface Props {
   questions: Music[]
@@ -17,17 +18,6 @@ const Container = styled(Padding)`
   font-size: 1.3em;
       `}
 `
-const Flex = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`
-// const Column = styled.div`
-//   display: flex;
-//   justify-content: space-around;
-//   align-items: center;
-//   flex-direction: column;
-// `
 
 const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
   return (

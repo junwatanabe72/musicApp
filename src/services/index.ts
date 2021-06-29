@@ -17,15 +17,17 @@ export const extractValidSoundSources = (
 ): Music[] => {
   const regex = /\(.*\)/g
   const artist = sortedArtists[key]
+  // const id = sources[0].artistId
   const sourceNames = sources.map((music: APIMusic) => music.trackName)
   const extractSources = sources.filter(function (
     value: APIMusic,
     index: number,
   ) {
     const isDuplicate = sourceNames.indexOf(value.trackName) === index
+    const isTargetArtistId = true
     const isTargetArtist = value.artistName === artist
     const isNoVoice = value.trackName.match(regex)
-    return isDuplicate && !isNoVoice && isTargetArtist
+    return isDuplicate && !isNoVoice && isTargetArtist && isTargetArtistId
   })
   const result = extractSources.map((value: APIMusic) => {
     const {

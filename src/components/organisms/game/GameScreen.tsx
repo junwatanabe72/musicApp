@@ -4,9 +4,15 @@ import { Grid } from '@material-ui/core'
 import CustomButton from 'components/atoms/CustomButton'
 import GameHeadText from 'components/atoms/GameHead'
 import { QUESTIONSNUMBER } from 'utils/constant'
-import { Padding, StyledA } from 'utils/styled/common'
+import {
+  Padding,
+  StyledA,
+  JUSTIFYCONTENT,
+  ALIGNITEMS,
+} from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
 import ClearScreen from './ClearScreen'
+import { media } from 'utils/styled/media'
 
 interface Props {
   isOver: boolean
@@ -18,10 +24,9 @@ interface Props {
 }
 const Container = styled.div`
   height: 60vh;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: column;
+  ${media.phone`
+  height: 40vh;
+      `}
 `
 const Bottom = styled.div`
   position: absolute;
@@ -49,13 +54,13 @@ const GameScreen: React.FC<Props> = ({
           <Grid
             container
             direction="column"
-            justify="center"
-            alignItems="center"
+            justify={JUSTIFYCONTENT.CENTER}
+            alignItems={ALIGNITEMS.CENTER}
           >
             {answers &&
               answers.map((answer) => {
                 return (
-                  <Padding key={answer} bottom={CLEAR.TINY}>
+                  <Padding key={answer} all={CLEAR.TINY}>
                     <CustomButton
                       value={answer}
                       onClick={() => {

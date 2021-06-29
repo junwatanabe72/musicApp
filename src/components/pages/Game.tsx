@@ -74,7 +74,6 @@ const Game: React.FC = () => {
     setIsCorrect(answer.isNotSelected)
     setOpen(false)
     // await new Promise((resolve) => setTimeout(resolve, 3000))
-
     return
   }
 

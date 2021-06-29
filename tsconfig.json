@@ -32,7 +32,6 @@
     "baseUrl": "src"
   },
   "include": [
-    "src",
-    "src/hook/SoundManager.tsx"
+    "src"
   ]
 }

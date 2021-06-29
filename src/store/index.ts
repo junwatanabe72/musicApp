@@ -17,6 +17,9 @@ import { yama } from './artist/yama'
 import { perfume } from './artist/perfume'
 import { utadaHikaru } from './artist/utadaHikaru'
 import { oneOkRock } from './artist/oneOkRock'
+import { spitz } from './artist/spitz'
+import { ketsumeishi } from './artist/ketsumeishi'
+import { exile } from './artist/exile'
 
 export const artistMusicData = {
   aimyon,
@@ -38,23 +41,21 @@ export const artistMusicData = {
   perfume,
   utadaHikaru,
   oneOkRock,
+  spitz,
+  ketsumeishi,
+  exile,
 }
 
 export const originalArtists = {
   bts: 'BTS',
-  // kan: 'KAN',
-  // yuri: '優里',
   yonezugenshi: '米津玄師',
   backNumber: 'back number',
   yoasobi: 'YOASOBI',
   hentai: '変態紳士クラブ',
   higedan: 'Official髭男dism',
-  // ado: 'Ado',
-  // lisa: 'LiSA',
   twice: 'TWICE',
   hoshinoGen: '星野源',
   eve: 'Eve',
-  // dish: 'DISH//',
   sudaMasaki: '菅田 将暉',
   aimyon: 'あいみょん',
   makaroni: 'マカロニえんぴつ',
@@ -65,19 +66,20 @@ export const originalArtists = {
   perfume: 'Perfume',
   utadaHikaru: '宇多田ヒカル',
   oneOkRock: 'ONE OK ROCK',
+  spitz: 'スピッツ',
+  ketsumeishi: 'ケツメイシ',
+  exile: 'EXILE',
 }
 export const lowerCaseArtists = {
   bts: 'bts',
   higedan: 'official髭男dism',
-  // ado: 'ado',
   eve: 'eve',
-  // kan: 'KAN',
-  // lisa: 'lisa',
-  // dish: 'dish//',
   backNumber: 'back+number',
   mrChilren: 'mr.children',
   perfume: 'perfume',
   oneOkRock: 'one+ok+rock',
+  spitz: 'spitz',
+  exile: 'exile',
 }
 
 const tmp = Object.entries(originalArtists)

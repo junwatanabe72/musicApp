@@ -1,23 +1,18 @@
 import { sortedArtists, lowerCaseArtists } from '../../store'
 
 //app
-// export const audio = new Audio()
 const host = 'https://itunes.apple.com/search'
-// export const term = 'mr.children'
 const media = 'music'
 const entity = 'song'
 const country = 'jp'
 const lang = 'ja_jp'
 const limit = '200'
 const attribute = 'artistTerm'
-// export const targetUrl = `${host}?term=${term}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
 
 export const createTargetUrl = (key: string): string => {
-  // console.log(key)
   const value = lowerCaseArtists[key as keyof typeof lowerCaseArtists]
     ? lowerCaseArtists[key as keyof typeof lowerCaseArtists]
     : sortedArtists[key]
-  // console.log(encodeURIComponent(value))
   return `${host}?term=${encodeURIComponent(
     value,
   )}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
@@ -36,11 +31,19 @@ export const imagePath = '../../../public/logo192.png'
 export const howToText = '曲名を当てるだけ！'
 export const howToText2 = 'スピーカーをオンにしてお楽しみください！'
 export const howToText3 = 'アーティストを選択してね！'
+// info
+export const infotitle = '更新情報'
+
+export const infoTexts = {
+  infoText: { content: 'KYOKUATEをリリースしました！', date: '2021/6/28' },
+  infoText1: { content: '「ケツメイシ」を追加しました！', date: '2021/6/28' },
+  infoText2: { content: '「スピッツ」を追加しました！', date: '2021/6/28' },
+  infoText3: { content: '「EXILE」を追加しました！', date: '2021/6/28' },
+}
 // ad
 export const ninjaID = '775269bed10e865976ced4b3e97329ca'
 
 // kyokuate
-
 export const answer = {
   isCorrect: 'isCorrect',
   isNotSelected: 'isNotSelected',

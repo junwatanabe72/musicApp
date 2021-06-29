@@ -6,6 +6,7 @@ import DialogContentText from '@material-ui/core/DialogContentText'
 import DialogTitle from '@material-ui/core/DialogTitle'
 import { media } from 'utils/styled/media'
 import { answer, Answer } from 'utils/constant'
+import { Flex } from 'utils/styled/common'
 
 interface Props {
   open: boolean
@@ -17,14 +18,14 @@ const Size = styled.div`
   width: 30vw;
   ${media.phone`
   width: 80vw;
+  height: 40vh;
       `}
 `
-const Flex = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+const Column = styled(Flex)`
   flex-direction: column;
 `
+
 const Container = styled.div`
   font-size: 1.5em;
   color: ${(props) => props.theme.palette.common.black};
@@ -60,15 +61,15 @@ const AnswerDialog: React.FC<Props> = ({ open, question, isCorrect }) => {
   return (
     <Dialog aria-labelledby="simple-dialog-title" open={open}>
       <Size>
-        <Flex>
+        <Column>
           {title(isCorrect)}
           {isCorrect === answer.isCorrect && (
             <DialogContent>
               <DialogContentText id="alert-dialog-description">
-                <Flex>
+                <Column>
                   <Container>{question.trackName} </Container>
                   <img src={question.artworkUrl100} />
-                </Flex>
+                </Column>
               </DialogContentText>
             </DialogContent>
           )}
@@ -79,7 +80,7 @@ const AnswerDialog: React.FC<Props> = ({ open, question, isCorrect }) => {
               </DialogContentText>
             </DialogContent>
           )}
-        </Flex>
+        </Column>
       </Size>
     </Dialog>
   )

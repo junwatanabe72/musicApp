@@ -28,15 +28,14 @@ export const JUSTIFYCONTENT = {
   EVENLY: 'space-evenly',
 } as const
 
-export const Center = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 20vh;
-`
 export const Between = styled.div`
   display: flex;
   flex-direction: column;
   height: 100%;
   justify-content: ${JUSTIFYCONTENT.BETWEEN};
+`
+export const Flex = styled.div`
+  display: flex;
+  justify-content: ${JUSTIFYCONTENT.CENTER};
+  align-items: ${ALIGNITEMS.CENTER};
 `

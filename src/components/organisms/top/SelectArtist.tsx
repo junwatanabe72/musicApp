@@ -1,7 +1,9 @@
 import React from 'react'
+import styled from 'styled-components'
 import MenuItem from '@material-ui/core/MenuItem'
 import Select from '@material-ui/core/Select'
 import { sortedArtists } from 'store'
+import { media } from 'utils/styled/media'
 
 interface Props {
   targetArtist: string
@@ -11,9 +13,17 @@ interface Props {
     }>,
   ) => void
 }
+
+const StyledSelect = styled(Select)`
+  min-width: 17vw;
+  ${media.phone`  
+  min-width: 40vw;
+      `}
+`
+
 const SelectArtist: React.FC<Props> = ({ targetArtist, handleChange }) => {
   return (
-    <Select
+    <StyledSelect
       labelId="demo-simple-select-label"
       id="demo-simple-select"
       value={targetArtist}
@@ -26,7 +36,7 @@ const SelectArtist: React.FC<Props> = ({ targetArtist, handleChange }) => {
           </MenuItem>
         )
       })}
-    </Select>
+    </StyledSelect>
   )
 }
 

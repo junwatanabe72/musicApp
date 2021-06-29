@@ -6,7 +6,7 @@ interface Props {
   value: string
 }
 
-const Container = styled.div`
+const Container = styled.h1`
   font-size: 3em;
   min-width: 50vw;
   color: ${(props) => props.theme.palette.common.black};
