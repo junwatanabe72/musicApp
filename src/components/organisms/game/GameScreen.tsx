@@ -21,7 +21,7 @@ interface Props {
   questions: Music[]
   num: number
   onClick: (trakName: string) => Promise<void>
-  retry: () => Promise<void>
+  retry: () => void
 }
 const Container = styled.div`
   height: 40vh;

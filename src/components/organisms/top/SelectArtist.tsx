@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styled from 'styled-components'
 import MenuItem from '@material-ui/core/MenuItem'
 import Select from '@material-ui/core/Select'
@@ -6,12 +6,8 @@ import { sortedArtists } from 'store'
 import { media } from 'utils/styled/media'
 
 interface Props {
-  targetArtist: string
-  handleChange: (
-    event: React.ChangeEvent<{
-      value: unknown
-    }>,
-  ) => void
+  value: GameState
+  dispatchChangeArtist: (value: string) => void
 }
 
 const StyledSelect = styled(Select)`
@@ -21,7 +17,12 @@ const StyledSelect = styled(Select)`
       `}
 `
 
-const SelectArtist: React.FC<Props> = ({ targetArtist, handleChange }) => {
+const SelectArtist: React.FC<Props> = ({ value, dispatchChangeArtist }) => {
+  const [targetArtist, setTargetArtist] = useState<string>(value.artist)
+  const handleChange = (event: React.ChangeEvent<{ value: unknown }>) => {
+    setTargetArtist(event.target.value as string)
+    dispatchChangeArtist(event.target.value as string)
+  }
   return (
     <StyledSelect
       labelId="demo-simple-select-label"

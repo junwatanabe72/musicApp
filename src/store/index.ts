@@ -95,3 +95,5 @@ tmp.sort(function (p1, p2) {
   return 0
 })
 export const sortedArtists = Object.fromEntries(tmp)
+
+export const defaultArtist = 'aimyon'

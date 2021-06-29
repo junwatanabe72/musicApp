@@ -43,7 +43,7 @@ const Info: React.FC = () => {
           {infomations.map(
             (info: { content: string; date: string }, num: number) => {
               return num === 0 ? (
-                <TableRow>
+                <TableRow key={num}>
                   <TableCell>
                     <FiberNewIcon color="secondary" />
                   </TableCell>
@@ -51,7 +51,7 @@ const Info: React.FC = () => {
                   <TableCell>{info.date}</TableCell>
                 </TableRow>
               ) : (
-                <TableRow>
+                <TableRow key={num}>
                   <TableCell></TableCell>
                   <TableCell>{info.content}</TableCell>
                   <TableCell>{info.date}</TableCell>
