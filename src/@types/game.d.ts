@@ -4,7 +4,7 @@ type Answer =
   | typeof answer.isNotSelected
 
 type GameState = {
-  artist: string
+  artist: OriginalArtists
   soundPlaying: boolean
   questions: Music[]
   answers: string[][]

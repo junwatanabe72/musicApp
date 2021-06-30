@@ -4,9 +4,10 @@ import { Link } from 'react-router-dom'
 import { Button } from '@material-ui/core'
 import GameHeadText from 'components/atoms/GameHead'
 import { Padding, StyledA } from 'utils/styled/common'
-import { CLEAR } from 'utils/constant/number'
+import { CLEAR, ROUTE } from 'utils/constant/number'
 import { media } from 'utils/styled/media'
 import { Flex } from 'utils/styled/common'
+import { clearText } from 'utils/constant'
 
 interface Props {
   questions: Music[]
@@ -22,8 +23,8 @@ const Container = styled(Padding)`
 const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
   return (
     <>
-      <GameHeadText value={'GAME CLEAR !!'} />
-      <Container>今回のセットリスト</Container>
+      <GameHeadText value={clearText.title} />
+      <Container>{clearText.text}</Container>
       <Container>
         {questions.map((value: Music, number: number) => {
           return (
@@ -51,11 +52,11 @@ const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
               retry()
             }}
           >
-            retry
+            {clearText.retry}
           </Button>
           <Padding all={CLEAR.TINY} />
           <Button size="large" variant="contained" color="secondary">
-            <Link to={'/'}>Top page</Link>
+            <Link to={ROUTE.TOP}>{clearText.top}</Link>
           </Button>
         </Flex>
       </Container>

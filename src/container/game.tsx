@@ -10,18 +10,18 @@ import {
   selectAnswer,
   initAction,
 } from '../actions/index'
+import { OriginalArtists } from 'store'
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const mapStateToProps = (state: any) => {
-  return { value: state.gameReducer }
+const mapStateToProps = (state: GameState) => {
+  return { state: state }
 }
 
 const mapDispatchToProps = (dispatch: Dispatch) => {
   return {
-    dispatchInitAction: (value: string) => {
+    dispatchInitAction: (value: OriginalArtists) => {
       dispatch(initAction(value))
     },
-    dispatchSelectAnswer: (value: string) => {
+    dispatchSelectAnswer: (value: Answer) => {
       dispatch(selectAnswer(value))
     },
     dispatchToggleDialog: () => {

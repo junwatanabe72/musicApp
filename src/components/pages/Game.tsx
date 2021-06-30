@@ -5,11 +5,12 @@ import Layout from 'components/templetes/Layout'
 import LoadingComponent from 'components/atoms/Loading'
 import AnswerDialog from 'components/atoms/AnswerDialog'
 import GameScreen from 'components/organisms/game/GameScreen'
+import { OriginalArtists } from 'store'
 
 interface Props {
-  value: GameState
-  dispatchInitAction: (value: string) => void
-  dispatchSelectAnswer: (value: string) => void
+  state: GameState
+  dispatchInitAction: (value: OriginalArtists) => void
+  dispatchSelectAnswer: (value: Answer) => void
   dispatchToggleDialog: () => void
   dispatchToggleLoding: () => void
   dispatchToggleSoundPlaying: () => void
@@ -18,7 +19,7 @@ interface Props {
 }
 
 const Game: React.FC<Props> = ({
-  value,
+  state,
   dispatchInitAction,
   dispatchSelectAnswer,
   dispatchToggleDialog,
@@ -27,19 +28,21 @@ const Game: React.FC<Props> = ({
   dispatchNextQuestion,
   dispatchGameClear,
 }) => {
-  const initData = () => {
-    dispatchInitAction(value.artist)
-    dispatchToggleSoundPlaying()
-    // dispatchToggleLoding()
-    // await new Promise((resolve) => setTimeout(resolve, 1000))
-    // dispatchToggleLoding()
-    return
-  }
+  const {
+    artist,
+    num,
+    questions,
+    answers,
+    showDialog,
+    showLoad,
+    soundPlaying,
+    isOver,
+    isCorrect,
+  } = state
 
-  const retryData = () => {
-    dispatchInitAction(value.artist)
+  const initData = () => {
+    dispatchInitAction(artist)
     dispatchToggleSoundPlaying()
-    // await new Promise((resolve) => setTimeout(resolve, 1000))
     return
   }
 
@@ -55,14 +58,13 @@ const Game: React.FC<Props> = ({
   const correctAction = async (): Promise<void> => {
     dispatchSelectAnswer(answer.isCorrect)
     dispatchToggleDialog()
-    if (value.num === value.questions.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 1000))
+    await new Promise((resolve) => setTimeout(resolve, 3000))
+    if (num === questions.length - 1) {
       dispatchGameClear()
       dispatchSelectAnswer(answer.isNotSelected)
       dispatchToggleDialog()
       return
     }
-    await new Promise((resolve) => setTimeout(resolve, 3000))
     dispatchNextQuestion()
     dispatchSelectAnswer(answer.isNotSelected)
     dispatchToggleDialog()
@@ -70,11 +72,11 @@ const Game: React.FC<Props> = ({
   }
 
   const onClick = async (trakName: string): Promise<void> => {
-    if (!value.questions[value.num] || value.showLoad) {
+    if (!questions[num] || showLoad) {
       return
     }
     dispatchToggleLoding()
-    if (trakName !== value.questions[value.num].trackName) {
+    if (trakName !== questions[num].trackName) {
       await inCorrectAction()
       dispatchToggleLoding()
       return
@@ -91,29 +93,28 @@ const Game: React.FC<Props> = ({
 
   return (
     <Layout>
-      {value.questions && (
+      <GameScreen
+        isOver={isOver}
+        questions={questions}
+        answers={answers[num]}
+        onClick={onClick}
+        retry={initData}
+        num={num}
+      />
+      <LoadingComponent open={showLoad} />
+      <AnswerDialog
+        open={showDialog}
+        isCorrect={isCorrect}
+        question={questions[num]}
+      />
+      <>
         <ReactHowler
-          src={[value.questions[value.num]?.previewUrl ?? '']}
-          playing={value.soundPlaying}
+          src={[questions[num]?.previewUrl ?? '']}
+          playing={soundPlaying}
           loop={true}
           preload={true}
         />
-      )}
-
-      <GameScreen
-        isOver={value.isOver}
-        questions={value.questions}
-        answers={value.answers[value.num]}
-        onClick={onClick}
-        retry={retryData}
-        num={value.num}
-      />
-      <LoadingComponent open={value.showLoad} />
-      <AnswerDialog
-        open={value.showDialog}
-        isCorrect={value.isCorrect}
-        question={value.questions[value.num]}
-      />
+      </>
     </Layout>
   )
 }

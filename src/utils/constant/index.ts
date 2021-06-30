@@ -17,9 +17,10 @@ export const createTargetUrl = (key: string): string => {
     value,
   )}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
 }
-// string
+// gameTitle
 export const appTitle = 'KYOKUATE'
 export const QUESTIONSNUMBER = 10
+export const topButton = 'start'
 // head
 export const description =
   'アーティスト別で流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！iphoneでも再生できます！'
@@ -33,6 +34,15 @@ export const howToText2 = 'スピーカーをオンにしてお楽しみくだ�
 export const howToText3 = 'アーティストを選択してね！'
 // info
 export const infotitle = '更新情報'
+// gameClear
+export const clearText = {
+  title: 'GAME CLEAR !!',
+  text: '今回のセットリスト',
+  retry: 'retry',
+  top: 'top page',
+}
+// dialog
+export const incorrectText = '不正解です'
 
 export const infoTexts = {
   infoText: { content: 'KYOKUATEをリリースしました！', date: '2021/6/28' },

@@ -70,6 +70,7 @@ export const originalArtists = {
   ketsumeishi: 'ケツメイシ',
   exile: 'EXILE',
 }
+
 export const lowerCaseArtists = {
   bts: 'bts',
   higedan: 'official髭男dism',
@@ -97,3 +98,4 @@ tmp.sort(function (p1, p2) {
 export const sortedArtists = Object.fromEntries(tmp)
 
 export const defaultArtist = 'aimyon'
+export type OriginalArtists = keyof typeof originalArtists

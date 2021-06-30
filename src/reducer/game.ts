@@ -1,5 +1,5 @@
 import { init } from 'helpers'
-import { defaultArtist } from 'store'
+import { defaultArtist, OriginalArtists } from 'store'
 import { answer } from 'utils/constant'
 import { ACTIONTYPES } from '../actions/index'
 
@@ -15,16 +15,15 @@ const initialState: GameState = {
   showDialog: false,
 }
 
-export default function gameReducer(
+const gameReducer = (
   state = initialState,
-  action: Action<string>,
-): GameState {
+  action: Action<OriginalArtists | Answer> | BasicAction,
+): GameState => {
   let newState = state
   switch (action.type) {
     case ACTIONTYPES.INIT: {
-      const artist = action.payload
+      const artist = action.payload ?? defaultArtist
       const { questions, answers } = init(artist)
-      console.log(questions)
       newState = {
         ...state,
         questions,
@@ -42,12 +41,11 @@ export default function gameReducer(
       return { ...state, isCorrect: answer }
     }
     case ACTIONTYPES.CHANGE_ARTIST: {
-      const artist = action.payload
+      const artist = action.payload ?? defaultArtist
       return { ...state, artist: artist }
     }
     case ACTIONTYPES.NEXT:
       return { ...state, num: state.num + 1 }
-
     case ACTIONTYPES.SOUND_PLAYING:
       return { ...state, soundPlaying: !state.soundPlaying }
     case ACTIONTYPES.GAME_CLEAR:
@@ -60,3 +58,5 @@ export default function gameReducer(
       return state
   }
 }
+
+export default gameReducer

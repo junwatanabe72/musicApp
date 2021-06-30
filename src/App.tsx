@@ -2,7 +2,6 @@ import React from 'react'
 import { Route, BrowserRouter as Router } from 'react-router-dom'
 import Top from 'components/pages/Top'
 import { ROUTE } from 'utils/constant/number'
-// import Game from 'components/pages/Game'
 import Game from './container/game'
 const App: React.FC = () => {
   return (
