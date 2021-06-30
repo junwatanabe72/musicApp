@@ -16,7 +16,7 @@ interface Props {
 const Container = styled(Padding)`
   font-size: 1.5em;
   ${media.phone`
-  font-size: 1.3em;
+  font-size: 1.2em;
       `}
 `
 
@@ -37,11 +37,13 @@ const ClearScreen: React.FC<Props> = ({ questions, retry }) => {
           )
         })}
       </Container>
-      <Container>
-        「{questions[0].artistName}」の曲は
-        <StyledA href={questions[0].artistViewUrl}>ここ</StyledA>
-        からダウンロードできます！
-      </Container>
+      <Padding all={CLEAR.TINY}>
+        <Container>
+          「{questions[0].artistName}」の曲は
+          <StyledA href={questions[0].artistViewUrl}>ここ</StyledA>
+          からダウンロードできます！
+        </Container>
+      </Padding>
       <Container>
         <Flex>
           <Button

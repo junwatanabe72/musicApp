@@ -25,7 +25,7 @@ interface Props {
 const Container = styled.div`
   height: 50vh;
   ${media.phone`
-  height: 50vh;
+  height: 55vh;
       `}
 `
 const StyledContainer = styled(Flex)`
@@ -50,7 +50,7 @@ const GameScreen: React.FC<Props> = ({
 }) => {
   return (
     <Container>
-      {isOver ? (
+      {!isOver ? (
         <ClearScreen questions={questions} retry={retry} />
       ) : (
         <>

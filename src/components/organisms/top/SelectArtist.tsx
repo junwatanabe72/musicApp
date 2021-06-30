@@ -9,7 +9,13 @@ interface Props {
   state: GameState
   dispatchChangeArtist: (value: OriginalArtists) => void
 }
-
+const MenuProps = {
+  PaperProps: {
+    style: {
+      maxHeight: '45vh',
+    },
+  },
+}
 const StyledSelect = styled(Select)`
   min-width: 17vw;
   ${media.phone`  
@@ -29,6 +35,7 @@ const SelectArtist: React.FC<Props> = ({ state, dispatchChangeArtist }) => {
       id="demo-simple-select"
       value={targetArtist}
       onChange={handleChange}
+      MenuProps={MenuProps}
     >
       {Object.entries(sortedArtists).map(([key, value]) => {
         return (
