@@ -1,20 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
-import { ThemeProvider as StyledThemeProvider } from 'styled-components'
-import reportWebVitals from './reportWebVitals'
-import { createStore } from 'redux'
 import { Provider } from 'react-redux'
+import { createStore } from 'redux'
+import { ThemeProvider as StyledThemeProvider } from 'styled-components'
 import {
   ThemeProvider as MaterialThemeProvider,
   StylesProvider,
 } from '@material-ui/styles'
-import reducers from './reducer'
+import App from './App'
+import reducer from './reducer/game'
+import reportWebVitals from './reportWebVitals'
 import Head from 'components/templetes/Head'
 import { GlobalStyle } from 'utils/styled/globalStyle'
 import theme from './utils/theme'
 
-const store = createStore(reducers())
+const store = createStore(reducer)
 
 ReactDOM.render(
   <React.StrictMode>

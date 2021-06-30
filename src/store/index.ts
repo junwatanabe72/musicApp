@@ -19,9 +19,29 @@ import { utadaHikaru } from './artist/utadaHikaru'
 import { oneOkRock } from './artist/oneOkRock'
 import { spitz } from './artist/spitz'
 import { ketsumeishi } from './artist/ketsumeishi'
+import { yuuri } from './artist/yuuri'
+import { fujiSou } from './artist/fujiSou'
+import { ado } from './artist/ado'
+import { bloomVase } from './artist/bloomVase'
+import { hiraiDai } from './artist/hiraiDai'
+import { awesomeCityClub } from './artist/awesomeCityClub'
+import { zutto } from './artist/zutto'
+import { daice } from './artist/daice'
+import { novelbright } from './artist/novelbright'
+import { dish } from './artist/dish'
 import { exile } from './artist/exile'
 
 export const artistMusicData = {
+  ado,
+  dish,
+  novelbright,
+  daice,
+  zutto,
+  awesomeCityClub,
+  hiraiDai,
+  bloomVase,
+  fujiSou,
+  yuuri,
   aimyon,
   higedan,
   bts,
@@ -69,7 +89,18 @@ export const originalArtists = {
   spitz: 'スピッツ',
   ketsumeishi: 'ケツメイシ',
   exile: 'EXILE',
+  yuuri: '優里',
+  fujiSou: '藤井 風',
+  ado: 'Ado',
+  bloomVase: 'BLOOM VASE',
+  hiraiDai: '平井大',
+  awesomeCityClub: 'Awesome City Club',
+  zutto: 'ずっと真夜中でいいのに。',
+  daice: 'Da-iCE',
+  novelbright: 'Novelbright',
+  dish: 'DISH//',
 }
+
 export const lowerCaseArtists = {
   bts: 'bts',
   higedan: 'official髭男dism',
@@ -80,6 +111,13 @@ export const lowerCaseArtists = {
   oneOkRock: 'one+ok+rock',
   spitz: 'spitz',
   exile: 'exile',
+  fujiSou: '藤井+風',
+  ado: 'ado',
+  bloomVase: 'bloom+vase',
+  awesomeCityClub: 'awesome+city+club',
+  daice: 'da-ice',
+  novelbright: 'novelbright',
+  dish: 'dish//',
 }
 
 const tmp = Object.entries(originalArtists)
@@ -97,3 +135,4 @@ tmp.sort(function (p1, p2) {
 export const sortedArtists = Object.fromEntries(tmp)
 
 export const defaultArtist = 'aimyon'
+export type OriginalArtists = keyof typeof originalArtists

@@ -1,12 +1,23 @@
+const ACTIONTYPE = {
+  INIT: 'INIT',
+  NEXT: 'NEXT',
+  CHANGE_ARTIST: 'CHANGE_ARTIST',
+  GAME_CLEAR: 'GAME_CLEAR',
+  SOUND_PLAYING: 'SOUND_PLAYING',
+  SELECT_ANSWER: 'SELECT_ANSWER',
+  LOADING_TOGGLE: 'LOADING_TOGGLE',
+  DIALOG_TOGGLE: 'DIALOG_TOGGLE',
+} as const
+
 type ACTIONTYPES =
-  | INIT
-  | LOADING_TOGGLE
-  | DIALOG_TOGGLE
-  | NEXT
-  | GAME_CLEAR
-  | SOUND_PLAYING
-  | SELECT_ANSWER
-  | CHANGE_ARTIST
+  | typeof ACTIONTYPE.INIT
+  | typeof ACTIONTYPE.LOADING_TOGGLE
+  | typeof ACTIONTYPE.DIALOG_TOGGLE
+  | typeof ACTIONTYPE.NEXT
+  | typeof ACTIONTYPE.GAME_CLEAR
+  | typeof ACTIONTYPE.SOUND_PLAYING
+  | typeof ACTIONTYPE.SELECT_ANSWER
+  | typeof ACTIONTYPE.CHANGE_ARTIST
 
 interface Action<T> extends Action<ACTIONTYPES, T> {
   type: ACTIONTYPES
@@ -14,4 +25,5 @@ interface Action<T> extends Action<ACTIONTYPES, T> {
 }
 interface BasicAction extends Action {
   type: ACTIONTYPES
+  payload?: undefined
 }

@@ -1,3 +1,5 @@
+import { OriginalArtists } from 'store'
+
 //ACTIONTYPES
 export const ACTIONTYPES = {
   INIT: 'INIT',
@@ -10,13 +12,13 @@ export const ACTIONTYPES = {
   DIALOG_TOGGLE: 'DIALOG_TOGGLE',
 } as const
 
-export function initAction(artist: string): Action<string> {
+export function initAction(artist: OriginalArtists): Action<OriginalArtists> {
   return { type: ACTIONTYPES.INIT, payload: artist }
 }
-export function changeArtist(artist: string): Action<string> {
+export function changeArtist(artist: OriginalArtists): Action<OriginalArtists> {
   return { type: ACTIONTYPES.CHANGE_ARTIST, payload: artist }
 }
-export function selectAnswer(answer: string): Action<string> {
+export function selectAnswer(answer: Answer): Action<Answer> {
   return { type: ACTIONTYPES.SELECT_ANSWER, payload: answer }
 }
 export function soundPlaying(): BasicAction {

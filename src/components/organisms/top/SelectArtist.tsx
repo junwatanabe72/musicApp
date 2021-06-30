@@ -2,12 +2,12 @@ import React, { useState } from 'react'
 import styled from 'styled-components'
 import MenuItem from '@material-ui/core/MenuItem'
 import Select from '@material-ui/core/Select'
-import { sortedArtists } from 'store'
+import { OriginalArtists, sortedArtists } from 'store'
 import { media } from 'utils/styled/media'
 
 interface Props {
-  value: GameState
-  dispatchChangeArtist: (value: string) => void
+  state: GameState
+  dispatchChangeArtist: (value: OriginalArtists) => void
 }
 
 const StyledSelect = styled(Select)`
@@ -17,11 +17,11 @@ const StyledSelect = styled(Select)`
       `}
 `
 
-const SelectArtist: React.FC<Props> = ({ value, dispatchChangeArtist }) => {
-  const [targetArtist, setTargetArtist] = useState<string>(value.artist)
+const SelectArtist: React.FC<Props> = ({ state, dispatchChangeArtist }) => {
+  const [targetArtist, setTargetArtist] = useState<string>(state.artist)
   const handleChange = (event: React.ChangeEvent<{ value: unknown }>) => {
     setTargetArtist(event.target.value as string)
-    dispatchChangeArtist(event.target.value as string)
+    dispatchChangeArtist(event.target.value as OriginalArtists)
   }
   return (
     <StyledSelect

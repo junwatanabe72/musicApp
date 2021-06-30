@@ -5,7 +5,7 @@ import DialogContent from '@material-ui/core/DialogContent'
 import DialogContentText from '@material-ui/core/DialogContentText'
 import DialogTitle from '@material-ui/core/DialogTitle'
 import { media } from 'utils/styled/media'
-import { answer, Answer } from 'utils/constant'
+import { answer, Answer, incorrectText } from 'utils/constant'
 import { Flex } from 'utils/styled/common'
 
 interface Props {
@@ -76,7 +76,7 @@ const AnswerDialog: React.FC<Props> = ({ open, question, isCorrect }) => {
           {isCorrect === answer.isIncorrect && (
             <DialogContent>
               <DialogContentText id="alert-dialog-description">
-                <Container>不正解です</Container>
+                <Container>{incorrectText}</Container>
               </DialogContentText>
             </DialogContent>
           )}

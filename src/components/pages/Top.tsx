@@ -1,12 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import { appTitle } from 'utils/constant'
+import { appTitle, topButton } from 'utils/constant'
 import HowTo from 'components/organisms/top/HowTo'
 import Layout from 'components/templetes/Layout'
 import Button from '@material-ui/core/Button'
 import { Padding } from 'utils/styled/common'
-import { CLEAR } from 'utils/constant/number'
+import { CLEAR, ROUTE } from 'utils/constant/number'
 import SelectArtist from 'container/selectArtist'
 import Info from 'components/organisms/top/Info'
 import { Flex } from 'utils/styled/common'
@@ -26,7 +26,7 @@ const TopPage: React.FC = () => {
       <SelectArtist />
       <Padding left={CLEAR.SMALL} />
       <Button size="large" variant="contained" color="primary">
-        <Link to={`/game`}>Start</Link>
+        <Link to={ROUTE.GAME}>{topButton}</Link>
       </Button>
     </Flex>,
     <StyledPadding key={3}>

@@ -17,9 +17,10 @@ export const createTargetUrl = (key: string): string => {
     value,
   )}&media=${media}&entity=${entity}&attribute=${attribute}&country=${country}&lang=${lang}&limit=${limit}`
 }
-// string
+// gameTitle
 export const appTitle = 'KYOKUATE'
 export const QUESTIONSNUMBER = 10
+export const topButton = 'start'
 // head
 export const description =
   'アーティスト別で流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！iphoneでも再生できます！'
@@ -33,13 +34,16 @@ export const howToText2 = 'スピーカーをオンにしてお楽しみくだ�
 export const howToText3 = 'アーティストを選択してね！'
 // info
 export const infotitle = '更新情報'
-
-export const infoTexts = {
-  infoText: { content: 'KYOKUATEをリリースしました！', date: '2021/6/28' },
-  infoText1: { content: '「ケツメイシ」を追加しました！', date: '2021/6/28' },
-  infoText2: { content: '「スピッツ」を追加しました！', date: '2021/6/28' },
-  infoText3: { content: '「EXILE」を追加しました！', date: '2021/6/28' },
+// gameClear
+export const clearText = {
+  title: 'GAME CLEAR !!',
+  text: '今回のセットリスト',
+  retry: 'retry',
+  top: 'top page',
 }
+// dialog
+export const incorrectText = '不正解です'
+
 // ad
 export const ninjaID = '4c4b0d6cd43a0a4edd0bbc2e900f85ff'
 

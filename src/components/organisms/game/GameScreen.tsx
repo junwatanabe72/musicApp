@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import { Grid } from '@material-ui/core'
 import CustomButton from 'components/atoms/CustomButton'
 import GameHeadText from 'components/atoms/GameHead'
-import { QUESTIONSNUMBER } from 'utils/constant'
 import {
   Padding,
   StyledA,
@@ -57,7 +56,7 @@ const GameScreen: React.FC<Props> = ({
         <>
           <Padding>
             <GameHeadText value={`${questions[num]?.artistName ?? ''}`} />
-            <GameHeadText value={`第${num + 1}問 / ${QUESTIONSNUMBER}問`} />
+            <GameHeadText value={`第${num + 1}問 / ${questions.length}問`} />
           </Padding>
           <Grid
             container
