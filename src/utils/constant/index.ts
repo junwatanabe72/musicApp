@@ -23,7 +23,7 @@ export const QUESTIONSNUMBER = 10
 export const topButton = 'start'
 // head
 export const description =
-  'アーティスト別で流れる曲の一部分を聞いて、その曲名を当てるアプリケーションです！iphoneでも再生できます！'
+  'iphoneにも対応！このアプリは曲の一部分を聞いて、その曲名を当てるアプリケーションです！react,reduxで作られており動作もサクサク！'
 export const url = 'https://kyokuate.netlify.app/'
 export const iTunesUrl = 'https://www.apple.com/jp/itunes/'
 export const imagePath = '../../../public/logo192.png'
