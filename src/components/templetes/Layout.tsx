@@ -16,17 +16,20 @@ const StyledContainer = styled(Flex)`
 `
 
 const Column = styled(Flex)`
-  height: 50vh;
+  height: 70vh;
   flex-direction: column;
+  ${media.phone`
+  height: 70vh;
+      `}
 `
 const AdHeight = styled.div`
   height: 60px;
 `
 const Bottom = styled.div`
   position: absolute;
-  bottom: -36vh;
+  bottom: -15vh;
   ${media.phone`
-  bottom: -20vh;
+  bottom: -15vh;
       `}
 `
 

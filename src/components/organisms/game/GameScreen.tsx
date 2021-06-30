@@ -23,7 +23,7 @@ interface Props {
   retry: () => void
 }
 const Container = styled.div`
-  height: 40vh;
+  height: 50vh;
   ${media.phone`
   height: 40vh;
       `}
@@ -34,9 +34,9 @@ const StyledContainer = styled(Flex)`
 `
 const Bottom = styled(Flex)`
   position: absolute;
-  bottom: -34vh;
+  bottom: -13vh;
   ${media.phone`
-  bottom: -16vh;
+  bottom: -10vh;
       `}
 `
 

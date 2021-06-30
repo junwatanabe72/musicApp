@@ -8,14 +8,15 @@ import TableRow from '@material-ui/core/TableRow'
 import { TableCell } from '@material-ui/core'
 import InfoIcon from '@material-ui/icons/Info'
 import FiberNewIcon from '@material-ui/icons/FiberNew'
-import { infoTexts, infotitle } from 'utils/constant'
+import { infotitle } from 'utils/constant'
 import { Flex, Padding } from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
+import { infoTexts } from 'utils/constant/info'
 
 const infomations = Object.values(infoTexts).reverse()
 
 const StyledTableContainer = styled(TableContainer)`
-  max-height: 20vh;
+  max-height: 40vh;
   border-radius: 6px;
 `
 
