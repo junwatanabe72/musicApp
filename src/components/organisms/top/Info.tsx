@@ -12,17 +12,22 @@ import { infotitle } from 'utils/constant'
 import { Flex, Padding } from 'utils/styled/common'
 import { CLEAR } from 'utils/constant/number'
 import { infoTexts } from 'utils/constant/info'
+import { media } from 'utils/styled/media'
 
 const infomations = Object.values(infoTexts).reverse()
 
 const StyledTableContainer = styled(TableContainer)`
   max-height: 40vh;
   border-radius: 6px;
+  ${media.phone`
+  width: 90vw;
+  height: 30vh;
+      `}
 `
 
 const StyledTableCell = styled(TableCell)`
   font-size: 1.2em;
-  max-width: 33vw;
+  max-width: 30vw;
   background-color: ${(props) => props.theme.palette.grey[100]};
 `
 

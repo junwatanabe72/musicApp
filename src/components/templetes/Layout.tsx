@@ -29,7 +29,7 @@ const Bottom = styled.div`
   position: absolute;
   bottom: -15vh;
   ${media.phone`
-  bottom: -15vh;
+  bottom: -5vh;
       `}
 `
 

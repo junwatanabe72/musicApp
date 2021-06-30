@@ -25,7 +25,7 @@ interface Props {
 const Container = styled.div`
   height: 50vh;
   ${media.phone`
-  height: 40vh;
+  height: 50vh;
       `}
 `
 const StyledContainer = styled(Flex)`
@@ -36,7 +36,7 @@ const Bottom = styled(Flex)`
   position: absolute;
   bottom: -13vh;
   ${media.phone`
-  bottom: -10vh;
+  bottom: 0vh;
       `}
 `
 
