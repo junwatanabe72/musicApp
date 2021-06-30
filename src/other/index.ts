@@ -39,3 +39,5 @@ const fetchAPIMusic = async (keys: string[]): Promise<void> => {
 }
 
 fetchAPIMusic(keys)
+
+// ./node_modules/.bin/ts-node src/other/index.ts

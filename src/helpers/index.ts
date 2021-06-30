@@ -58,8 +58,12 @@ export const retry = (
   questions: Music[]
   answers: string[][]
 } => {
+  const maxNumber =
+    extractSources.length <= QUESTIONSNUMBER
+      ? extractSources.length - 1
+      : QUESTIONSNUMBER
   const trackNames = createTrackNames(extractSources)
-  const questions = createQuestions(extractSources, QUESTIONSNUMBER)
+  const questions = createQuestions(extractSources, maxNumber)
   const answers = createAnswers(questions, trackNames)
   return { questions, answers }
 }
@@ -73,7 +77,11 @@ export const init = (
   const extractSources: Music[] =
     artistMusicData[key as keyof typeof artistMusicData]
   const trackNames = createTrackNames(extractSources)
-  const questions = createQuestions(extractSources, QUESTIONSNUMBER)
+  const maxNumber =
+    extractSources.length <= QUESTIONSNUMBER
+      ? extractSources.length - 1
+      : QUESTIONSNUMBER
+  const questions = createQuestions(extractSources, maxNumber)
   const answers = createAnswers(questions, trackNames)
   return { questions, answers }
 }

@@ -44,12 +44,6 @@ export const clearText = {
 // dialog
 export const incorrectText = '不正解です'
 
-export const infoTexts = {
-  infoText: { content: 'KYOKUATEをリリースしました！', date: '2021/6/28' },
-  infoText1: { content: '「ケツメイシ」を追加しました！', date: '2021/6/28' },
-  infoText2: { content: '「スピッツ」を追加しました！', date: '2021/6/28' },
-  infoText3: { content: '「EXILE」を追加しました！', date: '2021/6/28' },
-}
 // ad
 export const ninjaID = '4c4b0d6cd43a0a4edd0bbc2e900f85ff'
 
