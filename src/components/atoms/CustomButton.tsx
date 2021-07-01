@@ -24,6 +24,7 @@ const StyledButton = styled(Button)`
 const CustomButton: React.FC<Props> = ({ value, onClick }) => {
   return (
     <StyledButton
+      style={{ textTransform: 'none' }}
       onClick={() => {
         onClick(value)
       }}

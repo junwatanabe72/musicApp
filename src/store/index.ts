@@ -30,6 +30,7 @@ import { daice } from './artist/daice'
 import { novelbright } from './artist/novelbright'
 import { dish } from './artist/dish'
 import { exile } from './artist/exile'
+import { kawasakiTakaya } from './artist/kawasakiTakaya'
 
 export const artistMusicData = {
   ado,
@@ -64,6 +65,7 @@ export const artistMusicData = {
   spitz,
   ketsumeishi,
   exile,
+  kawasakiTakaya,
 }
 
 export const originalArtists = {
@@ -99,6 +101,7 @@ export const originalArtists = {
   daice: 'Da-iCE',
   novelbright: 'Novelbright',
   dish: 'DISH//',
+  kawasakiTakaya: '川崎鷹也',
 }
 
 export const lowerCaseArtists = {

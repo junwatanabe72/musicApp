@@ -50,7 +50,7 @@ const GameScreen: React.FC<Props> = ({
 }) => {
   return (
     <Container>
-      {!isOver ? (
+      {isOver ? (
         <ClearScreen questions={questions} retry={retry} />
       ) : (
         <>

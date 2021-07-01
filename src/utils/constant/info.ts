@@ -19,4 +19,12 @@ export const infoTexts = {
   infoText11: { content: '「Da-iCE」を追加しました！', date: '2021/6/30' },
   infoText12: { content: '「Novelbright」を追加しました！', date: '2021/6/30' },
   infoText13: { content: '「DISH//」を追加しました！', date: '2021/6/30' },
+  infoText14: {
+    content: 'アーティスト選択をdialog式に変更しました！',
+    date: '2021/7/1',
+  },
+  infoText15: {
+    content: '「川崎鷹也」を追加しました！',
+    date: '2021/7/1',
+  },
 }
