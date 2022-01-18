@@ -9,7 +9,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f4/12/95/f412959e-6b72-6f1e-74a0-ad3652630368/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/11/33/0b/11330b2d-cb3c-0faa-623e-d64c067bdfd1/mzaf_2101319282495682112.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/f8/0e/bdf80eca-bc2a-f734-6808-c449abe4e262/mzaf_3850022635297773593.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -21,7 +21,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/81/a2/0e/81a20e9e-6d81-9241-126f-4d9e1aca882d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/49/a1/d1/49a1d11b-34e4-3b9f-d7dc-b148ef7510b5/mzaf_17809599125885890524.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/52/66/1252661c-3011-ed94-3744-cc2286a5c400/mzaf_4621810490487240977.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -33,7 +33,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/26/67/a9/2667a9c2-76f4-41bf-6705-3630891ef0ba/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/21/d8/0e/21d80e44-0c0f-0132-fd7c-db762f99e172/mzaf_2054654437064432628.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/05/69/2205698e-90e6-1c9c-1504-92fc5f6d3887/mzaf_29384554113116306.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -45,7 +45,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/20/f7/2d20f720-6256-a2b3-b94b-4f8ea34317a9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a1/36/b0/a136b058-16a2-0cc6-7925-719acd4165c7/mzaf_17793410376509164365.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/1d/da/9a1dda75-978a-48e2-b917-ca95646e8f32/mzaf_4615042543398292565.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -57,7 +57,43 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c6/c6/e5/c6c6e51d-4ff4-00cd-bd6e-43d4f5079ad2/mzaf_11476589099672744127.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/a0/6d/cba06d3c-b528-093c-42d9-a1fc107add10/mzaf_11945224348388848604.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'ラストシーン',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B7%E3%83%BC%E3%83%B3/1592269554?i=1592269897&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/e8/79/6d/e8796d36-a7b9-0c41-23bd-d30705feb434/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b7/1c/96/b71c962b-9304-581f-b700-37d47670b388/mzaf_13738737462247196157.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'TONE BENDER LOVE',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/tone-bender-love/1538153319?i=1538153328&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/e1/e0/86e1e0da-60b2-ecb8-0f23-4848a032c12c/mzaf_5676764228819368042.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'ゆらゆら',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%86%E3%82%89%E3%82%86%E3%82%89/1538151143?i=1538151152&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/7a/5c/bd7a5c32-0495-c692-0ddb-8472f9d69617/mzaf_16622118069357545978.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -75,49 +111,13 @@ export const sudaMasaki: Music[] = [
     artistName: '菅田 将暉',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'TONE BENDER LOVE',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/tone-bender-love/1538153319?i=1538153328&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e3/1e/dd/e31edd52-9e90-c357-ed11-9fc75f4c05d2/mzaf_8263630012316037997.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'ゆらゆら',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%86%E3%82%89%E3%82%86%E3%82%89/1538151143?i=1538151152&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/14/af/aa/14afaa31-2d19-238a-1e8a-b2006c45ff2c/mzaf_8978558376149832782.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: '呼吸',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%91%BC%E5%90%B8/1538149031?i=1538149032&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/50/48/50/50485090-0ba1-1372-3d5c-352651dc8d29/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/11/53/52/11535203-c6dd-7897-a017-cda3a944d4ca/mzaf_8390674728876772538.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
     trackName: 'りびんぐでっど',
     collectionViewUrl:
       'https://music.apple.com/jp/album/%E3%82%8A%E3%81%B3%E3%82%93%E3%81%90%E3%81%A7%E3%81%A3%E3%81%A9/1538153319?i=1538153327&uo=4',
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/47/df/a9/47dfa9ce-4a8a-7550-921d-26a2e7c80b91/mzaf_3098155519305228155.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/0f/f5/930ff55f-4bda-8575-f991-6e09cbf5c887/mzaf_10209014755842316549.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -129,19 +129,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/7e/45/95/7e4595d0-cf64-2fe0-ba1a-22248dd7d3e8/mzaf_526846541676004326.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'つもる話',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%A4%E3%82%82%E3%82%8B%E8%A9%B1/1538153319?i=1538153325&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/59/40/ed/5940eda6-f5e4-cf53-6f3e-02c27c701ccf/mzaf_13377890136299315636.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/fc/6a/3ffc6a70-54ed-8c12-3f3f-f80245d2f142/mzaf_8149120618498561608.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -153,7 +141,19 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/0a/3c/05/0a3c05cf-40c1-2f87-744d-8f7066d74a34/mzaf_9650940338149165458.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/b3/e1/b6b3e196-35f6-8a9f-ea4c-ebf5cf586185/mzaf_5422357545830564413.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: '呼吸',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%91%BC%E5%90%B8/1538149031?i=1538149032&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/50/48/50/50485090-0ba1-1372-3d5c-352651dc8d29/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/70/d2/1370d2bc-7b30-3104-ff00-6532eadb8383/mzaf_329689686429575152.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -165,91 +165,19 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/fb/10/ce/fb10cead-2eb8-62ba-31ad-9a970535b22e/mzaf_17343378812311116400.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8a/fa/77/8afa77c6-a8bf-9464-dec2-47f54f46dedb/mzaf_9238836232467908897.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: '風になってゆく',
+    trackName: 'つもる話',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%A2%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%86%E3%81%8F/1538151143?i=1538151149&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/a5/e9/10/a5e910f6-94b0-13e0-583a-db49ff011ff3/mzaf_10681448012738935845.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'クローバー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC/1538153319?i=1538153321&uo=4',
+      'https://music.apple.com/jp/album/%E3%81%A4%E3%82%82%E3%82%8B%E8%A9%B1/1538153319?i=1538153325&uo=4',
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/81/a4/19/81a419ac-c702-8a6e-7732-9b831fa6fb18/mzaf_15849799154593365114.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: '7.1oz',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/7-1oz/1538153319?i=1538153323&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/29/6d/47/296d47d0-1f9d-57c7-b976-e7dc6bf9945c/mzaf_12388971680271018661.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'ベイビィ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%99%E3%82%A4%E3%83%93%E3%82%A3/1538153319?i=1538153330&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/bf/c3/e2/bfc3e24c-97a2-17a8-9062-065cae9f4bef/mzaf_10668973592652829951.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: 'ドラス',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%B9/1538153319?i=1538153324&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/cf/2e/ea/cf2eea1e-bcef-c62a-12a4-7d375c29ab3b/mzaf_1610658262983879049.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: '台詞',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%8F%B0%E8%A9%9E/1538151143?i=1538151150&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/99/c6/c0/99c6c0db-715b-b92c-0621-9c2365e8a0a7/mzaf_5019334374121076914.plus.aac.p.m4a',
-  },
-  {
-    artistName: '菅田 将暉',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
-    trackName: '雨が上がる頃に',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%9B%A8%E3%81%8C%E4%B8%8A%E3%81%8C%E3%82%8B%E9%A0%83%E3%81%AB/1538151143?i=1538151458&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/89/07/96/890796d9-f0b7-bf29-a115-0a35b157162b/mzaf_8023651294753626513.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/bf/ab/eebfabd3-ca02-4b3b-0e5b-24b51d932c8a/mzaf_8680109160425559343.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -261,7 +189,91 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/64/d7/9a/64d79a90-28da-b4d0-bb25-76d87d48bf92/mzaf_3960800310333824175.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/01/78/a701781e-acdb-21e2-c60d-b85abe77430f/mzaf_7071840342057340541.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: '台詞',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%8F%B0%E8%A9%9E/1538151143?i=1538151150&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/f4/4e/6af44e23-330c-3696-b64e-d8f0be004d25/mzaf_3946496740241363419.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'クローバー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC/1538153319?i=1538153321&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/64/3b/81643bec-0b86-dfd4-c509-9c62516ee9ee/mzaf_14321523639215577716.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: '7.1oz',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/7-1oz/1538153319?i=1538153323&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/dc/b4/66dcb4ae-2daf-5ede-3d4a-d6c6e000e9eb/mzaf_16781562123867367635.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: '風になってゆく',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%A2%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%86%E3%81%8F/1538151143?i=1538151149&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/c9/a2/c5c9a2b6-6294-ec29-5619-5729b424eae6/mzaf_1952571473307293671.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'ベイビィ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%99%E3%82%A4%E3%83%93%E3%82%A3/1538153319?i=1538153330&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6e/d4/a3/6ed4a3e9-10fa-9d35-3d63-e1b51d612337/mzaf_18238473429159493040.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'ドラス',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%B9/1538153319?i=1538153324&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/da/d6/67/dad667cc-6e68-676b-ec6e-855c03aa3f19/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/c7/9a/cfc79a98-9d5b-d00e-2b1b-5a5f13986b04/mzaf_5255745350227504695.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: '雨が上がる頃に',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%9B%A8%E3%81%8C%E4%B8%8A%E3%81%8C%E3%82%8B%E9%A0%83%E3%81%AB/1538151143?i=1538151458&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/da/c4/58dac431-95bf-92d8-8d21-d1777f7ab67d/mzaf_4398136392850627695.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -273,7 +285,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ab/dc/d7/abdcd769-e0e1-ed1a-c20e-1cb0409bbb2d/mzaf_15917812847188912226.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7a/1b/dd/7a1bdd8c-fe74-4dbb-f680-4604a00adf7e/mzaf_4769422419146857069.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -285,7 +297,7 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/28/0f/91/280f91b6-4f09-a203-385e-3aac1817f885/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/5a/56/15/5a5615e3-3e8d-ba69-4564-1888b99f466d/mzaf_4656288759602177671.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5d/6e/71/5d6e713a-b95d-3b6d-babe-6d43d7e68c75/mzaf_561385785389709924.plus.aac.p.m4a',
   },
   {
     artistName: '菅田 将暉',
@@ -297,6 +309,18 @@ export const sudaMasaki: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/20/f7/2d20f720-6256-a2b3-b94b-4f8ea34317a9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/9e/ba/99/9eba9915-dc3a-acef-1e7f-c27f938a0779/mzaf_1782441954846575571.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/25/41/832541e9-3fcb-f958-e53e-f0f4cc026f4a/mzaf_16632527253416520811.plus.aac.p.m4a',
+  },
+  {
+    artistName: '菅田 将暉',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%8F%85%E7%94%B0-%E5%B0%86%E6%9A%89/1213690168?uo=4',
+    trackName: 'ギターウサギ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%AE%E3%82%BF%E3%83%BC%E3%82%A6%E3%82%B5%E3%82%AE/1592269554?i=1592269898&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/e8/79/6d/e8796d36-a7b9-0c41-23bd-d30705feb434/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5a/d4/7c/5ad47c1b-d5c1-8842-615f-9212ac0bd3f9/mzaf_16887833666098556900.plus.aac.p.m4a',
   },
 ]

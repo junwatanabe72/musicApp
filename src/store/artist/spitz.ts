@@ -9,19 +9,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f5/e5/f7/f5e5f70e-7126-cf8d-4c36-66f88778b96c/mzaf_4993045361173641778.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '魔法のコトバ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95%E3%81%AE%E3%82%B3%E3%83%88%E3%83%90/1445041117?i=1445041327&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/f1/d9/59/f1d959de-9b16-b9b7-7f6d-e9db8bb59295/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/d8/16/4fd816e0-4d14-6a8c-3221-93c54c007ace/mzaf_695802224453336979.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/05/01/85050158-7d64-d4a3-e415-c3a37d373fae/mzaf_17434682038900982231.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -33,7 +21,19 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/48/75/75/487575b6-ff0b-fae7-ac1a-1777b773732b/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/82/b6/7b/82b67b97-e296-3c48-a1c3-c2726e226120/mzaf_17706865932867177030.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/4e/ca/fe4ecafd-8f25-77ca-a947-4119a07050f0/mzaf_173375211800432407.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '魔法のコトバ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95%E3%81%AE%E3%82%B3%E3%83%88%E3%83%90/1445041117?i=1445041327&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/f1/d9/59/f1d959de-9b16-b9b7-7f6d-e9db8bb59295/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/f1/b6/bbf1b6c8-044c-274c-be17-fc158d96f72c/mzaf_3703150343171956851.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -45,7 +45,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/e2/50/4fe250a0-4273-abfb-ebfb-95dcea5a1242/mzaf_8585159880240984956.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/6c/78/d36c78fb-21f3-9c04-8549-4da943bcd974/mzaf_17860987539655633318.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -57,7 +57,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9e/9a/ba/9e9aba68-1d94-229b-4bf1-83f2bdac0d60/mzaf_4266139943982487843.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/c5/da/16c5da67-2d5b-5d58-7e3e-c3c4b671390f/mzaf_3931477327000470742.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -81,7 +81,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/15/2a/ef/152aef17-1e12-5dd5-ee10-4853d86e673a/mzaf_2640850537478602098.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/80/f6/83/80f6832a-c45d-6eae-153d-258f4d39d14c/mzaf_7412200222594610514.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -93,31 +93,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/bc/1c/51/bc1c51bb-9563-621c-5ea6-911968af7fc0/mzaf_4285066737553676824.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ルキンフォー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%AB%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC/1445050966?i=1445050970&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/a7/20/fd/a720fd70-fe90-bfca-bc81-55fceda8d291/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/de/90/76/de9076f6-3e1b-69e5-bde2-7eff580156e9/mzaf_4879838462643380272.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '若葉',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%8B%A5%E8%91%89/1445040952?i=1445040958&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/86/ab/9c/86ab9c1d-edaf-d033-3e3f-59d2077a4a39/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/10/7c/36/107c368e-1711-67c2-5e2c-2d14aee0d66e/mzaf_8385940005102131498.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/8e/32/308e32dd-f5d5-bc88-a2ae-32e2abc83414/mzaf_10192529101027441630.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -129,7 +105,79 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d2/7c/2d/d27c2d12-5bd2-f15c-5e7f-c98723450d68/mzaf_5833463705506917872.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/95/ce/f395cee7-f7a6-78ca-9c47-720660cad596/mzaf_8322578663774337672.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '大好物',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%A4%A7%E5%A5%BD%E7%89%A9/1591132589?i=1591132592&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/59/d3/fb/59d3fbc6-b728-7679-7528-2d7fa55c0e4e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b7/b3/e6/b7b3e681-458e-6980-daf4-4418659d2912/mzaf_6954314050967563855.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '若葉',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%8B%A5%E8%91%89/1445040952?i=1445040958&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/86/ab/9c/86ab9c1d-edaf-d033-3e3f-59d2077a4a39/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/87/76/14/877614cf-2905-9720-613c-34df1c6cb808/mzaf_10108577935415742018.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'スターゲイザー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC/1440784802?i=1440784805&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6a/df/73/6adf7362-f028-e46e-be70-4c51c2ed3bf1/mzaf_8617716451190354872.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ビギナー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC/1440657092?i=1440657345&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/08/04/82/08048272-e8e4-4d0e-163b-98c278e0e797/mzaf_2747346401015137426.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ルキンフォー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AB%E3%82%AD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC/1445050966?i=1445050970&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/a7/20/fd/a720fd70-fe90-bfca-bc81-55fceda8d291/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/32/35/43/32354350-5c05-fac8-c05a-d4b562123ce1/mzaf_6088004346057969210.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '春の歌',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%98%A5%E3%81%AE%E6%AD%8C/1440738536?i=1440738537&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8b/d5/c2/8bd5c290-5f9d-9ae3-b0ef-0a3a9ae63df3/mzaf_15653809403534163561.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -147,25 +195,13 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '春の歌',
+    trackName: '小さな生き物',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%98%A5%E3%81%AE%E6%AD%8C/1440738536?i=1440738537&uo=4',
+      'https://music.apple.com/jp/album/%E5%B0%8F%E3%81%95%E3%81%AA%E7%94%9F%E3%81%8D%E7%89%A9/1440793012?i=1440793021&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/97/f1/e7/97f1e78f-deb8-976e-cd8a-6b72e477e2a4/mzaf_1459329296324021288.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ビギナー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC/1440657092?i=1440657345&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f2/e3/fe/f2e3fe92-2f2f-50a9-832f-f1be53ea483b/mzaf_6124474277700405635.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/19/ba/da19bab9-9a56-22f3-adce-418850389ab8/mzaf_17581293857507175317.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -201,19 +237,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f2/4d/7d/f24d7d89-8820-5446-3166-6a7681fdd235/mzaf_1101513624656904109.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '小さな生き物',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%B0%8F%E3%81%95%E3%81%AA%E7%94%9F%E3%81%8D%E7%89%A9/1440793012?i=1440793021&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/19/ba/da19bab9-9a56-22f3-adce-418850389ab8/mzaf_17581293857507175317.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/3b/62/a43b626c-f8cd-1292-499d-da04b364b13d/mzaf_2492819044425608525.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -225,7 +249,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/99/c8/dc/99c8dc73-4d8e-522d-3b75-9e51306972fc/mzaf_8717459408043316814.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/d9/61/06d96184-55c7-a992-e9ce-2e5b3c1196a5/mzaf_8754772546727751987.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -237,19 +261,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9b/da/12/9bda1234-fe4a-20d6-29c3-ea96d6d68acb/mzaf_2482268332609614250.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '君は太陽',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%AF%E5%A4%AA%E9%99%BD/1444266850?i=1444267126&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/6a/d9/26/6ad9262f-58b3-9361-1c37-123d34d90bae/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f6/40/08/f640088b-ae27-761a-cf74-a2ee29bc6ff2/mzaf_5222101142583900193.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/de/9b/52de9b23-751e-da81-ae23-cca503b30824/mzaf_2134305129149206568.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -279,25 +291,13 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'スパイダー',
+    trackName: '僕のギター',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC/1440863443?i=1440863564&uo=4',
+      'https://music.apple.com/jp/album/%E5%83%95%E3%81%AE%E3%82%AE%E3%82%BF%E3%83%BC/1440661194?i=1440661200&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/aa/16/6d/aa166dc3-27a0-416e-7b2b-ba50391cc8c8/mzaf_6156120246163911907.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ヒビスクス',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%92%E3%83%93%E3%82%B9%E3%82%AF%E3%82%B9/1440793037?i=1440793279&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/5f/0f/15/5f0f158e-1922-d95f-ed5e-748fc79ddc3f/mzaf_5453957253958043736.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/d8/69/39d869ce-ebbc-d262-b684-019201bfd0a7/mzaf_14764031370096871155.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -309,19 +309,55 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/bc/c2/af/bcc2afcc-8e17-78aa-867e-c2b4435e0ad6/mzaf_6675265460322877328.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/25/52/57255280-b97e-a7bd-fb7e-54c4843e8d44/mzaf_10633876641542118379.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '恋する凡人',
+    trackName: 'ヒビスクス',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%99%E3%82%8B%E5%87%A1%E4%BA%BA/1440657092?i=1440657463&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%92%E3%83%93%E3%82%B9%E3%82%AF%E3%82%B9/1440793037?i=1440793279&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/45/aa/38/45aa3854-0963-c28d-b223-95ee9185c8b8/mzaf_6751995490092961113.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/b6/63/94b663e1-9d9c-d8ae-da94-a4ccbb385342/mzaf_18400511860948420139.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '君が思い出になる前に',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%8C%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB/1440863443?i=1440863460&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/52/0f/d8520fef-e663-2593-5213-e1f98d6c20b2/mzaf_2310659077874029303.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '日なたの窓に憧れて',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%97%A5%E3%81%AA%E3%81%9F%E3%81%AE%E7%AA%93%E3%81%AB%E6%86%A7%E3%82%8C%E3%81%A6/1440863443?i=1440863456&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d0/c3/98/d0c39859-c83f-dd60-1e25-d424381880ee/mzaf_11975686592033366579.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'スパイダー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC/1440863443?i=1440863564&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/f0/47/1cf047d9-7d40-fbf5-1523-bdf219f86ccf/mzaf_1972404035157784962.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -339,25 +375,25 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '君が思い出になる前に',
+    trackName: '君は太陽',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%8C%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AB%E3%81%AA%E3%82%8B%E5%89%8D%E3%81%AB/1440863443?i=1440863460&uo=4',
+      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%AF%E5%A4%AA%E9%99%BD/1444266850?i=1444267126&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/6a/d9/26/6ad9262f-58b3-9361-1c37-123d34d90bae/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d0/6e/49/d06e491e-2b46-e2ac-72bf-61e0d9523208/mzaf_4510668857134115129.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/90/9f/49909fe9-8261-8e47-a649-8dcfb664b7cb/mzaf_13373212358065239073.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '僕のギター',
+    trackName: '恋する凡人',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%83%95%E3%81%AE%E3%82%AE%E3%82%BF%E3%83%BC/1440661194?i=1440661200&uo=4',
+      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%99%E3%82%8B%E5%87%A1%E4%BA%BA/1440657092?i=1440657463&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/84/e5/35/84e53566-bf50-6101-1b83-a89986447c18/mzaf_5875552777279854176.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/43/0d/cd430d6a-b77f-b458-523a-8c82a7866e8f/mzaf_6270968959159610652.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -369,67 +405,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/d3/2f/51/d32f5107-af54-2148-c111-b314f1a2d684/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0c/19/25/0c192548-f7d7-a892-7efe-5bc96ddd6e46/mzaf_3550567916893062527.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '正夢',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%AD%A3%E5%A4%A2/1440738536?i=1440738747&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/76/ff/0b/76ff0be7-7891-9986-26bc-159ae0a654d4/mzaf_8935952328292451064.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '雪風',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%9B%AA%E9%A2%A8/1440793037?i=1440793288&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/d8/f4/4fd8f42a-a104-16c2-c8a1-535c96427888/mzaf_3042311768552088211.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '日なたの窓に憧れて',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%97%A5%E3%81%AA%E3%81%9F%E3%81%AE%E7%AA%93%E3%81%AB%E6%86%A7%E3%82%8C%E3%81%A6/1440863443?i=1440863456&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/2b/cf/24/2bcf2442-991c-9044-f188-0aec0e96f943/mzaf_6326198560335858764.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '子グマ!子グマ!',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%AD%90%E3%82%B0%E3%83%9E-%E5%AD%90%E3%82%B0%E3%83%9E/1440793037?i=1440793047&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/91/20/a8/9120a839-c352-260a-46c4-38493c2ea4a8/mzaf_5624246291109358970.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '青い車',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%9D%92%E3%81%84%E8%BB%8A/1440863443?i=1440863562&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/d4/cc/ee/d4ccee96-39f9-9c80-f258-9ac93d65a448/mzaf_4403920507662435233.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/41/e1/d841e11c-ccba-b21d-165a-00b7bcd6e8b6/mzaf_15398783982447241558.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -441,19 +417,31 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/8c/d5/ba/8cd5ba66-1dfe-d556-9980-9eb282d3eb37/mzaf_1205298406455820406.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/63/d0/5563d011-8a3c-3648-bc76-f866660b608c/mzaf_17415413670801050487.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'スカーレット',
+    trackName: '子グマ!子グマ!',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88/1440863443?i=1440863577&uo=4',
+      'https://music.apple.com/jp/album/%E5%AD%90%E3%82%B0%E3%83%9E-%E5%AD%90%E3%82%B0%E3%83%9E/1440793037?i=1440793047&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/b4/7c/0c/b47c0caf-1677-db5f-e98a-9b921cb0b178/mzaf_1463806857306990629.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/b6/3a/97b63a60-1929-4875-3181-0814ce815646/mzaf_18229579697074592515.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '正夢',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%AD%A3%E5%A4%A2/1440738536?i=1440738747&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/d9/3e/6cd93edd-6657-539f-d092-a6991f4629c2/mzaf_8969819888213538478.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -465,91 +453,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/12/21/19/1221191b-bdbe-4887-867b-87ffb175c174/mzaf_8494172226346128822.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ナサケモノ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%8A%E3%82%B5%E3%82%B1%E3%83%A2%E3%83%8E/1440793037?i=1440793052&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/fc/54/5d/fc545d76-3cf1-7aac-09f7-4e26cef80f61/mzaf_8327684841265190848.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'えにし',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%88%E3%81%AB%E3%81%97/1440657092?i=1440657480&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7b/82/04/7b82044b-6e23-a0a1-9655-f7deb761252c/mzaf_1333936950073156928.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'シロクマ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E/1440657092?i=1440657369&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a5/53/2b/a5532b6b-0a3f-db8d-df6f-1740f7a5d45e/mzaf_7468334961619054142.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ヒバリのこころ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%92%E3%83%90%E3%83%AA%E3%81%AE%E3%81%93%E3%81%93%E3%82%8D/1440863443?i=1440863448&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/70/a4/c470a490-16a7-343b-ceea-5c1cc6baf4b0/mzaf_12233834553309943498.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '歌ウサギ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%AD%8C%E3%82%A6%E3%82%B5%E3%82%AE/1440880515?i=1440880646&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/4e/d1/144ed194-8c6f-1b98-12a3-69593077e42c/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/2b/5a/a8/2b5aa867-0ced-fa0b-ffed-c34c9866a826/mzaf_3484348871318579154.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '桃',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%A1%83/1440661194?i=1440661202&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/d6/3a/de/d63ade64-be14-ba11-697b-aaa10ef294e7/mzaf_8446761232935703273.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '僕はきっと旅に出る',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E3%81%8D%E3%81%A3%E3%81%A8%E6%97%85%E3%81%AB%E5%87%BA%E3%82%8B/1440793012?i=1440793468&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e5/7e/3f/e57e3fcf-ff54-638a-a7bc-bda24e7d4fed/mzaf_4541649899845623213.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/76/96/b0769694-5dd0-63aa-b0f9-724a2cddd997/mzaf_10799370651969742130.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -567,61 +471,49 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '不思議',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1440661194?i=1440661209&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/f7/43/f1f74367-2843-3e7b-4432-0da3983452e2/mzaf_16538119574990054049.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
     trackName: 'グリーン',
     collectionViewUrl:
       'https://music.apple.com/jp/album/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3/1440793037?i=1440793054&uo=4',
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a3/62/98/a362985f-910a-0ae5-922a-efc164733dea/mzaf_892023741287903113.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f8/a7/cc/f8a7cc11-15a5-a1b7-bc30-889a43f25ab8/mzaf_8861503174620571210.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'こんにちは',
+    trackName: '青い車',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF/1440793037?i=1440793289&uo=4',
+      'https://music.apple.com/jp/album/%E9%9D%92%E3%81%84%E8%BB%8A/1440863443?i=1440863562&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/88/29/30/882930de-f3b2-7595-84a3-b4d4f2e0f102/mzaf_4529874180171286775.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '雪風',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%9B%AA%E9%A2%A8/1440793037?i=1440793288&uo=4',
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f0/b2/39/f0b239a4-feeb-680e-08c0-c5dae4d56f68/mzaf_8820557184338159677.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/1f/25/551f25e6-d864-8f07-1dac-99772ab1ef43/mzaf_8996310031634418385.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'さらさら',
+    trackName: 'スカーレット',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%95%E3%82%89%E3%81%95%E3%82%89/1440793012?i=1440793333&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88/1440863443?i=1440863577&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/1b/16/72/1b167266-4d55-4dab-1f4c-32b01ce4d696/mzaf_3307091769250791831.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'モニャモニャ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A2%E3%83%8B%E3%83%A3%E3%83%A2%E3%83%8B%E3%83%A3/1440793037?i=1440793273&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/77/74/8d/77748dab-0c2c-872c-88f1-77a99d1f8fde/mzaf_671581172918826338.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b4/5f/88/b45f88b1-d3eb-b9f6-d60c-c63dba73e7da/mzaf_13657119256230808493.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -633,115 +525,55 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/5b/2c/13/5b2c1312-2c58-6803-2b09-967342700fe3/mzaf_899004509398606303.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/fa/af/71faafbb-7b74-aa68-5115-c1a2ebc06173/mzaf_10568155836857646935.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '点と点',
+    trackName: 'さらさら',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E7%82%B9%E3%81%A8%E7%82%B9/1440661194?i=1440661301&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/62/24/ba/6224baf1-755e-d1b1-0261-a4aff39245f4/mzaf_8729672579171936708.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '魔女旅に出る',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%AD%94%E5%A5%B3%E6%97%85%E3%81%AB%E5%87%BA%E3%82%8B/1440863443?i=1440863451&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/55/f2/3a55f276-bb26-0bd8-c67f-a9c8a939ee2c/mzaf_17737368751366383599.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '花と虫',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%8A%B1%E3%81%A8%E8%99%AB/1481480802?i=1481480952&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/7f/c4/ad7fc4f2-6b3a-3ada-0f76-27059b1721ad/mzaf_9618172025278079076.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '遠吠えシャッフル',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%81%A0%E5%90%A0%E3%81%88%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB/1440793012?i=1440793352&uo=4',
+      'https://music.apple.com/jp/album/%E3%81%95%E3%82%89%E3%81%95%E3%82%89/1440793012?i=1440793333&uo=4',
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/e0/e5/91e0e5e1-94df-7d85-fede-6b9afe3e9fe9/mzaf_7557014846580284316.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/de/65/8d/de658d43-4cad-bc66-adf2-e3287066abc3/mzaf_4833825992159987496.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'Na・de・Na・deボーイ',
+    trackName: 'ナサケモノ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/na-de-na-de%E3%83%9C%E3%83%BC%E3%82%A4/1440661194?i=1440661205&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%8A%E3%82%B5%E3%82%B1%E3%83%A2%E3%83%8E/1440793037?i=1440793052&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/30/ba/98/30ba980b-e40c-046f-3d9d-cbb054ab2dbd/mzaf_3948620681586685433.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c9/1f/1d/c91f1d9b-71d7-a6a8-097a-1ae420dcb9e6/mzaf_6676677099228000540.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'P',
+    trackName: 'シロクマ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/p/1440661194?i=1440661302&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/21/c9/eb21c9d4-a51a-bee2-2922-da3a15d45758/mzaf_3013028080126481548.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '花の写真',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AE%E5%86%99%E7%9C%9F/1440657092?i=1440657471&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E/1440657092?i=1440657369&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/bd/e1/66bde194-c778-1c10-baa2-290fed3d2925/mzaf_13134616057116567523.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a2/06/41/a20641c7-a517-ec3c-902c-8255a6277ae0/mzaf_6017808842048911141.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '砂漠の花',
+    trackName: 'ヒバリのこころ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E7%A0%82%E6%BC%A0%E3%81%AE%E8%8A%B1/1440661194?i=1440661311&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/07/94/c1/0794c192-689b-6589-f76c-e1cce9705486/mzaf_5645961261183751498.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '夏の魔物',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E9%AD%94%E7%89%A9/1440863443?i=1440863449&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%92%E3%83%90%E3%83%AA%E3%81%AE%E3%81%93%E3%81%93%E3%82%8D/1440863443?i=1440863448&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a5/15/6e/a5156e5a-92de-2fe2-d07c-7bbe1678807e/mzaf_327767826017891271.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/70/a4/c470a490-16a7-343b-ceea-5c1cc6baf4b0/mzaf_12233834553309943498.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -759,25 +591,109 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'TRABANT',
+    trackName: '点と点',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/trabant/1440657092?i=1440657475&uo=4',
+      'https://music.apple.com/jp/album/%E7%82%B9%E3%81%A8%E7%82%B9/1440661194?i=1440661301&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e9/53/4f/e9534ff0-510e-92e9-c3d4-215897c47659/mzaf_7953128657510841884.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/a0/a2/a4a0a258-4268-f6b6-f13d-063192c05f04/mzaf_17157425127754100713.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '裸のままで',
+    trackName: '歌ウサギ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%A7/1440863443?i=1440863458&uo=4',
+      'https://music.apple.com/jp/album/%E6%AD%8C%E3%82%A6%E3%82%B5%E3%82%AE/1440880515?i=1440880646&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/4e/d1/144ed194-8c6f-1b98-12a3-69593077e42c/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c1/51/54/c1515432-b3b4-9cc0-4867-ca37eca158f7/mzaf_9157830688080294684.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7b/19/81/7b198167-e286-1ca7-8ffe-15384538c4fa/mzaf_7510828502432657449.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'Na・de・Na・deボーイ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/na-de-na-de%E3%83%9C%E3%83%BC%E3%82%A4/1440661194?i=1440661205&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bc/f4/bc/bcf4bc21-54a9-8f0b-5b18-5f6ff4f9364c/mzaf_14861701616002657248.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '桃',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%A1%83/1440661194?i=1440661202&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/00/a6/5f/00a65f18-898c-5e81-a522-7a4883aedba9/mzaf_8850854590932418920.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'えにし',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%88%E3%81%AB%E3%81%97/1440657092?i=1440657480&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/e5/44/97e54474-1ce8-a743-b1cf-e587bd8c9cc1/mzaf_18038115952944843241.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '不思議',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1440661194?i=1440661209&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f1/f7/43/f1f74367-2843-3e7b-4432-0da3983452e2/mzaf_16538119574990054049.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '僕はきっと旅に出る',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E3%81%8D%E3%81%A3%E3%81%A8%E6%97%85%E3%81%AB%E5%87%BA%E3%82%8B/1440793012?i=1440793468&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/11/34/d7113478-3e29-5eb9-9143-c3e333d51d37/mzaf_14213213874988813291.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'こんにちは',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF/1440793037?i=1440793289&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/c8/7a/8cc87afd-fa22-d5db-c9da-87f6aff0fc5b/mzaf_1453558868447469878.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '砂漠の花',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E7%A0%82%E6%BC%A0%E3%81%AE%E8%8A%B1/1440661194?i=1440661311&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3b/01/51/3b0151a2-cb8d-828f-8eef-9a33c82b996c/mzaf_11273022500874474935.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -795,145 +711,37 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ガラクタ',
+    trackName: '花の写真',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%AC%E3%83%A9%E3%82%AF%E3%82%BF/1440793037?i=1440793277&uo=4',
+      'https://music.apple.com/jp/album/%E8%8A%B1%E3%81%AE%E5%86%99%E7%9C%9F/1440657092?i=1440657471&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/bd/e1/66bde194-c778-1c10-baa2-290fed3d2925/mzaf_13134616057116567523.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'モニャモニャ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A2%E3%83%8B%E3%83%A3%E3%83%A2%E3%83%8B%E3%83%A3/1440793037?i=1440793273&uo=4',
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/f2/69/4ef26986-313a-c1c0-318d-b15eba17046d/mzaf_252577045369077135.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/50/8b/ed/508bed11-9bfa-fec3-a8cc-134f08f055a3/mzaf_11514766346575815441.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'つぐみ',
+    trackName: 'TRABANT',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%A4%E3%81%90%E3%81%BF/1440657092?i=1440657465&uo=4',
+      'https://music.apple.com/jp/album/trabant/1440657092?i=1440657475&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/dc/e2/3a/dce23ac9-ce0e-56e3-8251-3fa65e1aaa10/mzaf_3848337317612999989.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '幻のドラゴン',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%B9%BB%E3%81%AE%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3/1440657092?i=1440657474&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/b7/c1/3f/b7c13f16-5dcd-1e53-f883-e666dc6eb8ac/mzaf_2507772878487414825.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ありがとさん',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%95%E3%82%93/1481480802?i=1481480946&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/57/c6/4057c6ac-6331-a222-5196-5f9042724e7d/mzaf_14419017860455503773.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '14番目の月',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/14%E7%95%AA%E7%9B%AE%E3%81%AE%E6%9C%88-%E3%81%8A%E3%82%8B%E3%81%9F%E3%81%AA-mix/1440765607?i=1440765749&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/71/f6/8571f6c4-df42-83c7-3edf-0bd904d1c3fd/mzaf_13464113488108787819.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '快速',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%BF%AB%E9%80%9F/1481480802?i=1481480956&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/9f/ed/7b9fed13-c633-695d-2b83-f00a6db3c7ec/mzaf_17935414435261276299.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '野生のポルカ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%87%8E%E7%94%9F%E3%81%AE%E3%83%9D%E3%83%AB%E3%82%AB/1440793012?i=1440793338&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/63/4f/43634fcd-e8d5-0dc7-4632-2a18fa18915f/mzaf_6275740261266221533.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'りありてぃ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%8A%E3%81%82%E3%82%8A%E3%81%A6%E3%81%83/1440793012?i=1440793023&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/28/0b/3e/280b3e14-5b4e-0bc0-a088-9948ef5a4216/mzaf_8440130437120307754.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'エンドロールには早すぎる',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%AF%E6%97%A9%E3%81%99%E3%81%8E%E3%82%8B/1440793012?i=1440793346&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/84/ee/6d/84ee6d80-1952-f908-ae04-63673e4a4ba1/mzaf_2885207073425296196.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '未来コオロギ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%9C%AA%E6%9D%A5%E3%82%B3%E3%82%AA%E3%83%AD%E3%82%AE/1440793012?i=1440793017&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/7b/ec/b07bec90-1c1b-ec09-59d6-80163fb6f9a3/mzaf_2524930727121058172.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ヤマブキ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD/1481480802?i=1481481130&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/6e/ff/6e6eff8a-77ed-489e-0e50-6268d61be6d9/mzaf_17377349704274805817.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'YM71D',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/ym71d/1481480802?i=1481480959&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/b5/cd/7fb5cd5c-02b7-c25b-8c7b-a2355e4366dd/mzaf_16704042538777484371.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/9a/29/6b9a2993-9e8b-f2b8-288b-67cbe82c5cc7/mzaf_4355564785789555943.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -951,157 +759,13 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '新月',
+    trackName: '14番目の月',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%96%B0%E6%9C%88/1440657092?i=1440657467&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/4d/ed/63/4ded637e-a2b2-4957-b649-6dd5f3042ee0/mzaf_1738467983132341889.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '見っけ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%A6%8B%E3%81%A3%E3%81%91/1481480802?i=1481480941&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/86/7a/73867aec-ab50-7ad0-07b7-67c17a517cec/mzaf_2880928436128788068.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'scat',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/scat/1440793012?i=1440793343&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/79/d3/a7/79d3a7cd-6711-ea57-5ec8-deb278720a0a/mzaf_5749204219731566101.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'トビウオ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%88%E3%83%93%E3%82%A6%E3%82%AA/1440661194?i=1440661305&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/42/14/b3/4214b33b-5931-3b25-875d-8c7bbc8582a6/mzaf_5620958929351637589.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '猫になりたい',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E7%8C%AB%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84/1440786470?i=1440786923&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/e5/91/64e591d7-9429-e618-e8ff-5188d596a70b/mzaf_7623730680274544932.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ブービー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%96%E3%83%BC%E3%83%93%E3%83%BC/1481480802?i=1481480954&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/bc/5f/0abc5fcb-534d-81dc-f92f-79236ceb9f8f/mzaf_2901531544681160587.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '聞かせてよ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%81%9E%E3%81%8B%E3%81%9B%E3%81%A6%E3%82%88/1440657092?i=1440657478&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/39/5d/75/395d75e8-f74f-2a6e-36ae-03461ac81e88/mzaf_6485261875790089805.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ネズミの進化',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%AE%E9%80%B2%E5%8C%96/1440661194?i=1440661307&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/97/66/4c/97664cd2-e807-dcce-96c8-3424e74be163/mzaf_3936626670846744360.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'オパビニア',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%AA%E3%83%91%E3%83%93%E3%83%8B%E3%82%A2/1440793012?i=1440793030&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c0/a1/84/c0a184a2-7aab-ed0d-fecb-0b7d1220d42e/mzaf_6049873425866045082.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'リコリス',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9/1440765607?i=1440765735&uo=4',
+      'https://music.apple.com/jp/album/14%E7%95%AA%E7%9B%AE%E3%81%AE%E6%9C%88-%E3%81%8A%E3%82%8B%E3%81%9F%E3%81%AA-mix/1440765607?i=1440765749&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/54/f6/2554f655-1300-4ff3-3b05-33bb11d18277/mzaf_12841545448480272121.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ランプ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A9%E3%83%B3%E3%83%97/1440793012?i=1440793026&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/aa/2d/ef/aa2defe7-8fa2-abd4-22ca-b618f4131177/mzaf_5152760358817025458.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '初夏の日',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%88%9D%E5%A4%8F%E3%81%AE%E6%97%A5/1481480802?i=1481481126&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/5d/f1/265df18d-7884-7e3f-3cf7-87a045f7907c/mzaf_304167417674596990.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '三日月ロック その3',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%B8%89%E6%97%A5%E6%9C%88%E3%83%AD%E3%83%83%E3%82%AF-%E3%81%9D%E3%81%AE3/1440765607?i=1440765753&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/21/8e/c8/218ec841-760f-c212-b11e-6598908c2562/mzaf_7901754728771836612.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/85/71/f6/8571f6c4-df42-83c7-3edf-0bd904d1c3fd/mzaf_13464113488108787819.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1119,37 +783,133 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'シャララ',
+    trackName: 'ガラクタ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%A9%E3%83%A9/1440765607?i=1440765868&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%AC%E3%83%A9%E3%82%AF%E3%82%BF/1440793037?i=1440793277&uo=4',
     artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bf/b6/3a/bfb63ad9-36a7-99a7-ab40-c8a4c1efb91d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/fa/37/6ffa3730-6243-321e-c8d1-fc5c9a11fac8/mzaf_15565464716992419610.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/f2/69/4ef26986-313a-c1c0-318d-b15eba17046d/mzaf_252577045369077135.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '夢じゃない',
+    trackName: '夏の魔物',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%A4%A2%E3%81%98%E3%82%83%E3%81%AA%E3%81%84/1443132154?i=1443132604&uo=4',
+      'https://music.apple.com/jp/album/%E5%A4%8F%E3%81%AE%E9%AD%94%E7%89%A9/1440863443?i=1440863449&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/9a/d4/d0/9ad4d0e6-f80a-7c99-8d0f-e141365ef714/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/1f/16/2d/1f162da4-42be-1bae-7812-57b79acb21d1/mzaf_2456466137009699178.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/44/01/5c44015e-d78a-c185-3784-a586b717a40f/mzaf_8938002972373825534.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '漣',
+    trackName: '魔女旅に出る',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%BC%A3/1440661194?i=1440661309&uo=4',
+      'https://music.apple.com/jp/album/%E9%AD%94%E5%A5%B3%E6%97%85%E3%81%AB%E5%87%BA%E3%82%8B/1440863443?i=1440863451&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/55/f2/3a55f276-bb26-0bd8-c67f-a9c8a939ee2c/mzaf_17737368751366383599.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'りありてぃ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%8A%E3%81%82%E3%82%8A%E3%81%A6%E3%81%83/1440793012?i=1440793023&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/e9/33/13e9336f-e150-a4fd-5ac0-e67b17ff587e/mzaf_394167672259284803.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'YM71D',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/ym71d/1481480802?i=1481480959&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/b5/cd/7fb5cd5c-02b7-c25b-8c7b-a2355e4366dd/mzaf_16704042538777484371.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '花と虫',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%8A%B1%E3%81%A8%E8%99%AB/1481480802?i=1481480952&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/7f/c4/ad7fc4f2-6b3a-3ada-0f76-27059b1721ad/mzaf_9618172025278079076.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'scat',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/scat/1440793012?i=1440793343&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/20/e3/0f/20e30fea-9a56-3d18-a1e1-c81f7342a505/mzaf_2142388525063240267.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '見っけ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%A6%8B%E3%81%A3%E3%81%91/1481480802?i=1481480941&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/86/7a/73867aec-ab50-7ad0-07b7-67c17a517cec/mzaf_2880928436128788068.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '裸のままで',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%A3%B8%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%A7/1440863443?i=1440863458&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/38/1d/75/381d7539-0b17-4d80-69f3-21cfd15f8786/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d3/83/0d/d3830dbf-9b47-4087-c2eb-0ca627f9e833/mzaf_1671598727539693870.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'P',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/p/1440661194?i=1440661302&uo=4',
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/18/c1/f018c1fb-a7e0-1d87-9e15-8c4b33092d7c/mzaf_16308788303351991822.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/21/c9/eb21c9d4-a51a-bee2-2922-da3a15d45758/mzaf_3013028080126481548.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '遠吠えシャッフル',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%81%A0%E5%90%A0%E3%81%88%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB/1440793012?i=1440793352&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/e0/e5/91e0e5e1-94df-7d85-fede-6b9afe3e9fe9/mzaf_7557014846580284316.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1167,13 +927,61 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ハチミツ',
+    trackName: '快速',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%8F%E3%83%81%E3%83%9F%E3%83%84/1440745865?i=1440745942&uo=4',
+      'https://music.apple.com/jp/album/%E5%BF%AB%E9%80%9F/1481480802?i=1481480956&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/78/d8/4f78d8a4-a6b1-c17c-22d6-561d59d7aafc/mzaf_9029407883615859849.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/9f/ed/7b9fed13-c633-695d-2b83-f00a6db3c7ec/mzaf_17935414435261276299.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ありがとさん',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%95%E3%82%93/1481480802?i=1481480946&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/57/c6/4057c6ac-6331-a222-5196-5f9042724e7d/mzaf_14419017860455503773.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '幻のドラゴン',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%B9%BB%E3%81%AE%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3/1440657092?i=1440657474&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/09/7a/8e/097a8e68-c30c-5437-8c21-6230899db12c/mzaf_2439405242677589936.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'つぐみ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%A4%E3%81%90%E3%81%BF/1440657092?i=1440657465&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f9/65/b9/f965b9ca-988c-6298-a570-c10f08c40abd/mzaf_10286933861949881436.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'リコリス',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9/1440765607?i=1440765735&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/54/f6/2554f655-1300-4ff3-3b05-33bb11d18277/mzaf_12841545448480272121.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1185,7 +993,19 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/3a/86/e9/3a86e967-8223-f8b5-db2d-0e453a036e7e/mzaf_2061387676358336258.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/ec/8c/81ec8cec-35d9-5147-34ea-97bd204ed565/mzaf_11963295559008144826.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'エンドロールには早すぎる',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%AB%E3%81%AF%E6%97%A9%E3%81%99%E3%81%8E%E3%82%8B/1440793012?i=1440793346&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/8f/bb/5a8fbb0a-7ad4-56ef-4591-76e1cea59f7d/mzaf_2361668002164533122.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1197,31 +1017,43 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/90/45/03/904503dc-a253-c052-aeea-d8443164ff68/mzaf_1243899211593622849.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/57/f3/4a57f33b-ae61-c6a2-ab2b-b9da4a83a939/mzaf_6237163463622794520.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'テクテク',
+    trackName: 'トビウオ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%86%E3%82%AF%E3%83%86%E3%82%AF/1440765607?i=1440765865&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%88%E3%83%93%E3%82%A6%E3%82%AA/1440661194?i=1440661305&uo=4',
     artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/49/a5/fe/49a5fe7b-5aff-80fa-c7e3-150f5563c1a5/mzaf_4523669677761276016.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/90/e5/8290e5f3-d3fe-873c-6207-a3e5da901ae3/mzaf_8862131547432930663.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '夜を駆ける',
+    trackName: '未来コオロギ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%A4%9C%E3%82%92%E9%A7%86%E3%81%91%E3%82%8B/1440618806?i=1440618809&uo=4',
+      'https://music.apple.com/jp/album/%E6%9C%AA%E6%9D%A5%E3%82%B3%E3%82%AA%E3%83%AD%E3%82%AE/1440793012?i=1440793017&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/11/0d/5d/110d5de5-b99a-4de2-0818-c157b0f4a859/mzaf_4132985567667343633.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/7b/ec/b07bec90-1c1b-ec09-59d6-80163fb6f9a3/mzaf_2524930727121058172.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '漣',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%BC%A3/1440661194?i=1440661309&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/18/c1/f018c1fb-a7e0-1d87-9e15-8c4b33092d7c/mzaf_16308788303351991822.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1239,49 +1071,97 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'スワン',
+    trackName: '野生のポルカ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B9%E3%83%AF%E3%83%B3/1440793012?i=1440793357&uo=4',
+      'https://music.apple.com/jp/album/%E9%87%8E%E7%94%9F%E3%81%AE%E3%83%9D%E3%83%AB%E3%82%AB/1440793012?i=1440793338&uo=4',
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/d6/9e/75/d69e75df-7f30-39bd-395c-3df86dcbcfea/mzaf_7637985208869903917.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/63/4f/43634fcd-e8d5-0dc7-4632-2a18fa18915f/mzaf_6275740261266221533.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'オケラ',
+    trackName: '三日月ロック その3',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%AA%E3%82%B1%E3%83%A9/1440765607?i=1440765876&uo=4',
+      'https://music.apple.com/jp/album/%E4%B8%89%E6%97%A5%E6%9C%88%E3%83%AD%E3%83%83%E3%82%AF-%E3%81%9D%E3%81%AE3/1440765607?i=1440765753&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/05/78/91/05789128-530f-d99d-ffc0-85fca94d3fdd/mzaf_7760883329265559905.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2e/1b/da/2e1bdadf-fdf0-e438-fd75-efe8c86b706c/mzaf_7236839046828004433.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '8823',
+    trackName: '新月',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/8823/1440655458?i=1440655708&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/27/45/df/2745df20-39f6-57a5-2440-030612dd4a87/mzaf_5922319890496966579.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'どんどどん',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%A9%E3%82%93%E3%81%A9%E3%81%A9%E3%82%93/1440657092?i=1440657485&uo=4',
+      'https://music.apple.com/jp/album/%E6%96%B0%E6%9C%88/1440657092?i=1440657467&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/26/e2/7626e217-87f8-84d2-a9bb-45398f19220f/mzaf_3169416437333240041.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/e5/87/dfe58729-01ea-e54e-ed93-1fe45a2434b0/mzaf_15750010771315210370.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ヤマブキ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A4%E3%83%9E%E3%83%96%E3%82%AD/1481480802?i=1481481130&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/6e/ff/6e6eff8a-77ed-489e-0e50-6268d61be6d9/mzaf_17377349704274805817.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ネズミの進化',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%8D%E3%82%BA%E3%83%9F%E3%81%AE%E9%80%B2%E5%8C%96/1440661194?i=1440661307&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/fe/d0/d5fed075-0235-6e56-2e81-155cdee1823f/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/f2/55/28f25581-a86c-452b-1dc1-76b82d7e4118/mzaf_14647650351126201970.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ランプ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A9%E3%83%B3%E3%83%97/1440793012?i=1440793026&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/80/a5/0d80a5fb-c4bd-3ad3-bf9c-3a05ed5252c9/mzaf_6678170754287278960.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '聞かせてよ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%81%9E%E3%81%8B%E3%81%9B%E3%81%A6%E3%82%88/1440657092?i=1440657478&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a6/8e/1f/a68e1f78-9fcc-05f9-b5ec-c70a2dfda7b7/mzaf_17209255431207322373.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'オパビニア',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%AA%E3%83%91%E3%83%93%E3%83%8B%E3%82%A2/1440793012?i=1440793030&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/12/ad/4c12add9-eace-842c-f9b5-a0551a81a5c1/mzaf_7309618397110688032.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1299,13 +1179,37 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ラクガキ王国',
+    trackName: '初夏の日',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A9%E3%82%AF%E3%82%AC%E3%82%AD%E7%8E%8B%E5%9B%BD/1440765607?i=1440765746&uo=4',
+      'https://music.apple.com/jp/album/%E5%88%9D%E5%A4%8F%E3%81%AE%E6%97%A5/1481480802?i=1481481126&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/26/5d/f1/265df18d-7884-7e3f-3cf7-87a045f7907c/mzaf_304167417674596990.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ブービー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%96%E3%83%BC%E3%83%93%E3%83%BC/1481480802?i=1481480954&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/c9/da/14c9da41-198e-83c5-ffd0-99b8d5f9a23d/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/bc/5f/0abc5fcb-534d-81dc-f92f-79236ceb9f8f/mzaf_2901531544681160587.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'オケラ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%AA%E3%82%B1%E3%83%A9/1440765607?i=1440765876&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/95/c0/fe95c04f-aefa-3b1e-3ab1-38be589add07/mzaf_12007007490524471393.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ea/2a/13/ea2a138f-5528-4a18-76ae-1750f7ada9d1/mzaf_475826139448116185.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1323,13 +1227,133 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '愛のしるし',
+    trackName: 'シャララ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%84%9B%E3%81%AE%E3%81%97%E3%82%8B%E3%81%97/1440786470?i=1440786563&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%A9%E3%83%A9/1440765607?i=1440765868&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/ee/7a/e8/ee7ae813-c300-75f6-8a68-59a8741a9861/mzaf_3086292622412505681.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/fa/37/6ffa3730-6243-321e-c8d1-fc5c9a11fac8/mzaf_15565464716992419610.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'スワン',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B9%E3%83%AF%E3%83%B3/1440793012?i=1440793357&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/da/4f/50/da4f5056-31d8-e6c9-a19b-590834df8f0e/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/9b/92/f99b9202-0ee5-ca11-e6b0-b71b5e084e98/mzaf_14460367947797055938.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '夢じゃない',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%A4%A2%E3%81%98%E3%82%83%E3%81%AA%E3%81%84/1443132154?i=1443132604&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/9a/d4/d0/9ad4d0e6-f80a-7c99-8d0f-e141365ef714/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/14/e2/d414e289-d06a-76aa-e8ea-25714dc3270d/mzaf_15532371222606656091.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ハチミツ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%8F%E3%83%81%E3%83%9F%E3%83%84/1440745865?i=1440745942&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/e5/47/d4e5479b-9aa5-ffe9-f107-dde1c344544e/mzaf_4990387714523344849.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'どんどどん',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%A9%E3%82%93%E3%81%A9%E3%81%A9%E3%82%93/1440657092?i=1440657485&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/34/c9/95/34c995f5-f515-e49c-4db1-30f8e4a96679/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/26/e2/7626e217-87f8-84d2-a9bb-45398f19220f/mzaf_3169416437333240041.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'テクテク',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%86%E3%82%AF%E3%83%86%E3%82%AF/1440765607?i=1440765865&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/c8/4a/4fc84abd-46ba-23d0-f758-6da98fc38e88/mzaf_15973610215986258880.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '夜を駆ける',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%A4%9C%E3%82%92%E9%A7%86%E3%81%91%E3%82%8B/1440618806?i=1440618809&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/16/f6/9316f6de-ceeb-cf14-1a71-fc7e2d0a3b89/mzaf_8926425652262990002.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ホタル',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%9B%E3%82%BF%E3%83%AB/1440655458?i=1440655940&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e4/e2/ac/e4e2ac2d-d24d-bd6f-8b86-70c90240cd9c/mzaf_1730503472628479153.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ありふれた人生',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%B5%E3%82%8C%E3%81%9F%E4%BA%BA%E7%94%9F/1440738536?i=1440738543&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/52/13/165213d6-2f06-40fe-771f-b1b87caaa5b2/mzaf_9158156493642450445.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '8823',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/8823/1440655458?i=1440655708&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/d4/eb/25d4ebd1-d2b8-9868-c766-56c963c4a87b/mzaf_6087608162822573714.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ラクガキ王国',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A9%E3%82%AF%E3%82%AC%E3%82%AD%E7%8E%8B%E5%9B%BD/1440765607?i=1440765746&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/00/92/63/009263f5-27ac-d3fc-8386-b8f468e4c0f9/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fe/95/c0/fe95c04f-aefa-3b1e-3ab1-38be589add07/mzaf_12007007490524471393.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1347,13 +1371,13 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ありふれた人生',
+    trackName: '流れ星',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%B5%E3%82%8C%E3%81%9F%E4%BA%BA%E7%94%9F/1440738536?i=1440738543&uo=4',
+      'https://music.apple.com/jp/album/%E6%B5%81%E3%82%8C%E6%98%9F/1440893414?i=1440893430&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/9a/2f/24/9a2f24a2-82fc-74a8-6d74-faa474c97fc1/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/b0/3e/e3/b03ee3b8-d7b1-151d-4913-428db74f4987/mzaf_4516929858500852668.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/d6/4d/07d64d96-3f8c-eac7-cf5a-195f192458e6/mzaf_451598967254081681.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1365,7 +1389,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/54/05/0d/54050d22-b502-23c1-5bbf-99ca3b714d48/mzaf_1741346542035420316.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2f/91/f7/2f91f7cd-1a28-44ac-03e9-c4deed2adfbb/mzaf_2030880330445942468.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1377,91 +1401,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/6f/94/67/6f94679c-6ada-18b9-8db1-162a0c5c8171/mzaf_3002045301011783414.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '君と暮らせたら',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%9B%E3%81%9F%E3%82%89/1440745865?i=1440746635&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/60/a6/3560a6b3-3acb-8b16-c755-917c7dbbe8a9/mzaf_16796405439633427571.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'スターゲイザー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC/1440784802?i=1440784805&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/49/c3/f8/49c3f8a1-b3d3-0776-9f05-fdc4d9fd4da3/mzaf_7827817491102151608.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ほのほ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%BB%E3%81%AE%E3%81%BB/1440738536?i=1440738748&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/59/06/83/590683b7-637e-977d-ea37-a57559e4e022/mzaf_822188703531116834.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '甘ったれクリーチャー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E7%94%98%E3%81%A3%E3%81%9F%E3%82%8C%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC/1440738536?i=1440738547&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/32/8c/35/328c35ff-2bf9-cb1c-69ed-06ceff7d9ede/mzaf_7126029608473748089.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '会いに行くよ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%BC%9A%E3%81%84%E3%81%AB%E8%A1%8C%E3%81%8F%E3%82%88/1440738536?i=1440738954&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/c0/9f/98c09f4f-0e0b-5c98-c4e0-4ecd2e168b06/mzaf_3168238833581668657.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '歩き出せ、クローバー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%AD%A9%E3%81%8D%E5%87%BA%E3%81%9B-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC/1440745865?i=1440746095&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/ef/73/aeef7344-5f94-1074-8d71-8c1a91369e64/mzaf_8222776572015862990.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '1987→',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/1987/1440880515?i=1440880648&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/4e/d1/144ed194-8c6f-1b98-12a3-69593077e42c/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/e1/a2/38e1a272-5847-fb04-811d-abced532843e/mzaf_13150406323442812470.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/24/51/042451e2-5d27-dba6-a3ab-330c53c11e34/mzaf_555056464396688511.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1473,19 +1413,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/97/0e/73/970e7335-99c7-dd81-4ee7-13f62f6e3d91/mzaf_7223731842923942169.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ルナルナ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%AB%E3%83%8A%E3%83%AB%E3%83%8A/1440745865?i=1440746210&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/8c/79/528c7993-5897-8b1a-60d5-0f7fff5ae672/mzaf_8144401420837535536.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/f9/98/00f998bf-bb72-0928-fe6a-f01c30d3b28a/mzaf_3182031111494361874.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1503,37 +1431,49 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '自転車',
+    trackName: '歩き出せ、クローバー',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E8%87%AA%E8%BB%A2%E8%BB%8A/1440738536?i=1440738758&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/95/44/b595448a-627f-01db-7f40-c64a592761f7/mzaf_14028842570706301031.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'グラスホッパー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%9B%E3%83%83%E3%83%91%E3%83%BC/1440745865?i=1440746626&uo=4',
+      'https://music.apple.com/jp/album/%E6%AD%A9%E3%81%8D%E5%87%BA%E3%81%9B-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC/1440745865?i=1440746095&uo=4',
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/36/75/e2/3675e221-5e12-6f7b-4425-839dfba17a6d/mzaf_2620686321144459151.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/ef/73/aeef7344-5f94-1074-8d71-8c1a91369e64/mzaf_8222776572015862990.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '俺のすべて',
+    trackName: '甘ったれクリーチャー',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%BF%BA%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6/1440786470?i=1440786914&uo=4',
+      'https://music.apple.com/jp/album/%E7%94%98%E3%81%A3%E3%81%9F%E3%82%8C%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC/1440738536?i=1440738547&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/ae/e0/f5/aee0f5c6-9948-8aa3-11b0-60b7c96b7bc7/mzaf_3142339317602302757.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e6/64/af/e664af16-8cfc-a7de-ea05-19907a5cf7d2/mzaf_15344607594922863044.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '君と暮らせたら',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E5%90%9B%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%9B%E3%81%9F%E3%82%89/1440745865?i=1440746635&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/60/a6/3560a6b3-3acb-8b16-c755-917c7dbbe8a9/mzaf_16796405439633427571.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ほのほ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%BB%E3%81%AE%E3%81%BB/1440738536?i=1440738748&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/f6/64/abf66481-be82-194f-e4b7-41525fb1e708/mzaf_8170032339621970532.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1551,49 +1491,37 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '流れ星',
+    trackName: '会いに行くよ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%B5%81%E3%82%8C%E6%98%9F/1440786470?i=1440786488&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/19/d6/73/19d673b1-72cd-6c8d-10eb-7507bb20f76f/mzaf_3369851386629965037.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ナンプラー日和',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%8A%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC%E6%97%A5%E5%92%8C/1440738536?i=1440738745&uo=4',
+      'https://music.apple.com/jp/album/%E4%BC%9A%E3%81%84%E3%81%AB%E8%A1%8C%E3%81%8F%E3%82%88/1440738536?i=1440738954&uo=4',
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/be/2d/27be2db0-9388-da26-3643-c9534a3a1669/mzaf_17678462093189373425.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/c0/9f/98c09f4f-0e0b-5c98-c4e0-4ecd2e168b06/mzaf_3168238833581668657.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '優しくなりたいな',
+    trackName: '1987→',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA/1440738536?i=1440738733&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/da/86/6ada8612-2c30-e416-a0af-cefb36e62b37/mzaf_11908513686660797484.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ヘビーメロウ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%98%E3%83%93%E3%83%BC%E3%83%A1%E3%83%AD%E3%82%A6/1440880515?i=1440880642&uo=4',
+      'https://music.apple.com/jp/album/1987/1440880515?i=1440880648&uo=4',
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/4e/d1/144ed194-8c6f-1b98-12a3-69593077e42c/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/87/7d/b2/877db219-3e89-7390-ce34-7990c6027526/mzaf_6479726238022922761.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/38/e1/a2/38e1a272-5847-fb04-811d-abced532843e/mzaf_13150406323442812470.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ルナルナ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AB%E3%83%8A%E3%83%AB%E3%83%8A/1440745865?i=1440746210&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/8c/79/528c7993-5897-8b1a-60d5-0f7fff5ae672/mzaf_8144401420837535536.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1605,19 +1533,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c9/db/00/c9db00b9-8d54-e9df-8dc9-841224d6c1b2/mzaf_8856279829152844390.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'フェイクファー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%95%E3%82%A1%E3%83%BC/1440649306?i=1440649733&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/6d/fb/84/6dfb84a5-557c-f54a-9c30-840e3a8614f6/mzaf_4730111537307526212.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/44/d5/d5/44d5d5a5-0d73-ad31-efaa-2e4ca98cb7e1/mzaf_8485466085962552989.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1635,37 +1551,49 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ワタリ',
+    trackName: 'フェイクファー',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%AF%E3%82%BF%E3%83%AA/1440738536?i=1440738749&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/a5/98/25/a59825d7-2380-37ef-e622-10e0dae38b2f/mzaf_846899237559699928.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '仲良し',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%BB%B2%E8%89%AF%E3%81%97/1440649306?i=1440649493&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%95%E3%82%A1%E3%83%BC/1440649306?i=1440649733&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/1a/e7/6b/1ae76ba4-6a7a-c8ff-6b70-76aede5e4383/mzaf_7613024481430532926.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/be/a3/5f/bea35fda-fdde-9724-4edf-a119d17e3c82/mzaf_16661377896570290624.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'エスカルゴ',
+    trackName: '優しくなりたいな',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%82%B4/1440618806?i=1440618818&uo=4',
+      'https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AA/1440738536?i=1440738733&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/4b/e6/c6/4be6c6fd-6a46-fb29-e4dc-7c06420a6bf1/mzaf_523023208350814224.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/da/86/6ada8612-2c30-e416-a0af-cefb36e62b37/mzaf_11908513686660797484.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'グラスホッパー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%9B%E3%83%83%E3%83%91%E3%83%BC/1440745865?i=1440746626&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/99/4a/15994a92-61af-17b6-4088-38c88d4835a6/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/9f/90/d39f9092-972e-4654-66c5-c72d6f253baa/mzaf_4337081245064840584.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '自転車',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%87%AA%E8%BB%A2%E8%BB%8A/1440738536?i=1440738758&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/95/44/b595448a-627f-01db-7f40-c64a592761f7/mzaf_14028842570706301031.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1677,7 +1605,67 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/13/e3/8a/13e38a80-4d5b-875d-9893-94dbb24d24c7/mzaf_1658474168528109303.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/15/35/ff15358d-3d7d-ed9a-fe3b-35a3f2cbbd7c/mzaf_16037138132250296961.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ナンプラー日和',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%8A%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC%E6%97%A5%E5%92%8C/1440738536?i=1440738745&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/be/2d/27be2db0-9388-da26-3643-c9534a3a1669/mzaf_17678462093189373425.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ワタリ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AF%E3%82%BF%E3%83%AA/1440738536?i=1440738749&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f2/f9/8c/f2f98cef-8436-8be8-8606-6ad0c05a18c2/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/6a/25/c26a2518-6481-e2c3-f358-bf6174d7e0d9/mzaf_12316993902703445836.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'メモリーズ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA/1440784802?i=1440785083&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/99/5e/0f995ef0-f630-d50a-0cc1-ac5c0e03d2da/mzaf_12797440084127768088.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '仲良し',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E4%BB%B2%E8%89%AF%E3%81%97/1440649306?i=1440649493&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c8/d3/96/c8d39655-24f6-395a-3d25-c2e067263ace/mzaf_6601834581175630920.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ヘビーメロウ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%98%E3%83%93%E3%83%BC%E3%83%A1%E3%83%AD%E3%82%A6/1440880515?i=1440880642&uo=4',
+    artworkUrl100:
+      'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/4e/d1/144ed194-8c6f-1b98-12a3-69593077e42c/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/87/7d/b2/877db219-3e89-7390-ce34-7990c6027526/mzaf_6479726238022922761.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1685,107 +1673,11 @@ export const spitz: Music[] = [
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
     trackName: '遥か',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%81%A5%E3%81%8B-album-mix/1440618806?i=1440618819&uo=4',
+      'https://music.apple.com/jp/album/%E9%81%A5%E3%81%8B/1440893414?i=1440893440&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/9a/2f/24/9a2f24a2-82fc-74a8-6d74-faa474c97fc1/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4f/f2/98/4ff29843-dc95-7708-edc3-4ba8cc8c3ec0/mzaf_9197883190227535822.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ハネモノ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%8F%E3%83%8D%E3%83%A2%E3%83%8E/1440618806?i=1440618815&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/7c/00/76/7c0076a1-1fcd-aea5-f6cc-3547b106ea29/mzaf_5318029022915612288.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ミカンズのテーマ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%9F%E3%82%AB%E3%83%B3%E3%82%BA%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E/1440618806?i=1440618812&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/3b/ad/683bad9a-2d0d-26a7-53a2-831b65959884/mzaf_10867937060070420438.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ジュテーム?',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B8%E3%83%A5%E3%83%86%E3%83%BC%E3%83%A0/1440655458?i=1440655964&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f9/53/6e/f9536e09-f747-7cbc-9764-1b66754102a0/mzaf_5634339012512484630.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '水色の街',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%B0%B4%E8%89%B2%E3%81%AE%E8%A1%97/1440618806?i=1440618810&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/95/1e/ac951eb3-edd6-0124-0933-984c8f31fd39/mzaf_9813746842505214702.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '旅の途中',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%97%85%E3%81%AE%E9%80%94%E4%B8%AD/1440618806?i=1440619063&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/34/1c/83/341c833c-b72b-d59b-1bc4-baa072790ff2/mzaf_3476917459459832043.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'さわって・変わって',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%95%E3%82%8F%E3%81%A3%E3%81%A6-%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%A6/1440618806?i=1440618811&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/7a/e6/bb/7ae6bbc8-561b-c506-2f33-e1ee1892e33d/mzaf_533719691818382118.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ババロア',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%90%E3%83%90%E3%83%AD%E3%82%A2/1440618806?i=1440618813&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/b4/5e/c9/b45ec9b9-f17d-ac60-f0ed-e5a4b68e9584/mzaf_6564790118234572335.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '恋のうた',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%AE%E3%81%86%E3%81%9F/1440647452?i=1440647572&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/62/04/7b/62047b82-469e-a9d0-a8db-459e2c0eacda/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/6a/81/f16a813e-3ee6-b3a6-e995-f54f6ef8f4c6/mzaf_16469815319406763009.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/f4/8f/16f48f3c-e609-19db-262e-1336eaa94a1c/mzaf_11766136540987102601.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1803,13 +1695,85 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '鳥になって',
+    trackName: '恋のうた',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%B3%A5%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6/1440786470?i=1440787216&uo=4',
+      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%AE%E3%81%86%E3%81%9F/1440647452?i=1440647572&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/62/04/7b/62047b82-469e-a9d0-a8db-459e2c0eacda/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/2d/97/282d9795-96cf-6e6b-f6c4-04cc888be782/mzaf_1079594827254732664.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/6a/81/f16a813e-3ee6-b3a6-e995-f54f6ef8f4c6/mzaf_16469815319406763009.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ハネモノ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%8F%E3%83%8D%E3%83%A2%E3%83%8E/1440618806?i=1440618815&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/eb/23/5aeb23e9-7f9e-0a38-228b-cfb3b6631376/mzaf_4624040831386407847.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ババロア',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%90%E3%83%90%E3%83%AD%E3%82%A2/1440618806?i=1440618813&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/46/bd/a646bdf8-bc88-873e-f879-e64686bc9fc6/mzaf_2555804931529454648.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'メモリーズ・カスタム',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0/1440655458?i=1440655950&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/78/a4/bd78a433-53ba-3942-e2f5-db500eb27be3/mzaf_9288798210852814317.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ジュテーム?',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B8%E3%83%A5%E3%83%86%E3%83%BC%E3%83%A0/1440655458?i=1440655964&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/fa/37/33fa37f8-f826-3c14-01aa-a0fbbde2e2cd/mzaf_3934505837497406898.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '旅の途中',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%97%85%E3%81%AE%E9%80%94%E4%B8%AD/1440618806?i=1440619063&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/7b/67/1c7b674d-83bd-b1ff-7cfc-7665da86e45b/mzaf_14230410379789295259.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ローテク・ロマンティカ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AD%E3%83%BC%E3%83%86%E3%82%AF-%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%AB/1440618806?i=1440618814&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/a0/b4/b1a0b42d-75fb-d580-4439-f0a0f3b6d212/mzaf_12272569575873997190.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1827,37 +1791,61 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'メモリーズ・カスタム',
+    trackName: 'エスカルゴ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0/1440655458?i=1440655950&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9b/db/53/9bdb534e-e0e8-7e94-abae-f47583786ef2/mzaf_7407312184722483481.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ローテク・ロマンティカ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%AD%E3%83%BC%E3%83%86%E3%82%AF-%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%AB/1440618806?i=1440618814&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%82%B4/1440618806?i=1440618818&uo=4',
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/1d/dd/79/1ddd79d0-b4c6-0222-2daf-a5de76f571af/mzaf_7897517432004300065.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/fa/3f/60fa3fe0-1e77-8a47-02fa-c44a02ac0eda/mzaf_12899643593107502115.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ホタル',
+    trackName: 'ミカンズのテーマ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%9B%E3%82%BF%E3%83%AB/1440655458?i=1440655940&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%9F%E3%82%AB%E3%83%B3%E3%82%BA%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E/1440618806?i=1440618812&uo=4',
     artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/53/18/89/53188963-604e-3793-4de7-84c4f8399710/mzaf_6998928976660042129.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/3b/ad/683bad9a-2d0d-26a7-53a2-831b65959884/mzaf_10867937060070420438.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '水色の街',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E6%B0%B4%E8%89%B2%E3%81%AE%E8%A1%97/1440618806?i=1440618810&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ac/95/1e/ac951eb3-edd6-0124-0933-984c8f31fd39/mzaf_9813746842505214702.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'さわって・変わって',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%95%E3%82%8F%E3%81%A3%E3%81%A6-%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%A6/1440618806?i=1440618811&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/2b/12/51/2b12517e-8588-e6ed-ac36-43b5ee61b735/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/c6/da/78c6da09-ad74-d44e-6789-46c85fda505a/mzaf_7539118113129802269.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'サンシャイン',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3/1440778533?i=1440779342&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/8d/99/d08d99e9-fb76-499a-1703-3bd828bd513e/mzaf_10191774472596573114.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1869,43 +1857,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/18/7a/a0/187aa02e-a8b8-30bc-aba4-e5bd7fb1aaa5/mzaf_7166201854166841862.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'プール',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%97%E3%83%BC%E3%83%AB/1440647452?i=1440647562&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/62/04/7b/62047b82-469e-a9d0-a8db-459e2c0eacda/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e3/10/7a/e3107af2-83a2-8510-e370-c2e6fb286184/mzaf_17187051679261447219.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '初恋クレイジー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC/1440746376?i=1440746745&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/1f/be/7c/1fbe7c0b-2b15-e31b-5798-c34dad999eef/mzaf_3443652479132603641.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'ラズベリー',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC/1440778533?i=1440779034&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/8c/31/46/8c3146a0-efee-429d-d12d-1545f11793c0/mzaf_1336119190616407426.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/6e/a4/806ea4cb-c9a1-a70c-0dbb-e3505e58085c/mzaf_588211725781626090.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1923,37 +1875,37 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'おっぱい',
+    trackName: 'アパート',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84/1440786470?i=1440787230&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88/1442812434?i=1442812449&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
+      'https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/94/04/fe/9404fe5b-0eec-c061-1fd3-c90429347548/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/26/fe/78/26fe789b-a643-66be-f1c7-20022a4b4c47/mzaf_2798503075851691157.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/25/2a/cb/252acb21-b501-6834-101d-794891515696/mzaf_2087213810933735135.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '恋は夕暮れ',
+    trackName: 'インディゴ地平線',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%A4%95%E6%9A%AE%E3%82%8C/1440778533?i=1440778780&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B4%E5%9C%B0%E5%B9%B3%E7%B7%9A/1440746376?i=1440746766&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/75/85/50/7585509b-d9c0-db84-6cf1-672eb6be7c4e/mzaf_1745676421756151031.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/8b/8b/578b8bed-0737-17d5-ba24-8445e1b9de9e/mzaf_14960407563763339873.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '魚',
+    trackName: '初恋クレイジー',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%AD%9A/1440784802?i=1440784810&uo=4',
+      'https://music.apple.com/jp/album/%E5%88%9D%E6%81%8B%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC/1440746376?i=1440746745&uo=4',
     artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/12/dd/f5/12ddf5c3-2593-5712-5d43-63a7dfc0be22/mzaf_5810380336899766312.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/46/ac/c646acab-f3e9-fc86-9e7d-157b08ca06a9/mzaf_12787523939513970028.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1965,7 +1917,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b9/23/e5/b923e5e3-799d-98d1-b783-eeabe7fd09e8/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/03/74/e2/0374e2cf-40fe-73bf-c168-b122be772d87/mzaf_3525522498291392458.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/11/92/a81192a2-b702-1281-858b-9b73ae529d01/mzaf_7912174810844522338.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -1983,25 +1935,13 @@ export const spitz: Music[] = [
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'マーメイド',
+    trackName: '恋は夕暮れ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89/1440786470?i=1440787063&uo=4',
+      'https://music.apple.com/jp/album/%E6%81%8B%E3%81%AF%E5%A4%95%E6%9A%AE%E3%82%8C/1440778533?i=1440778780&uo=4',
     artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/84/9f/e5849f5c-8bfa-4de4-3f39-a15144da457b/mzaf_8846325596730588027.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: '旅人',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%97%85%E4%BA%BA/1440786470?i=1440786578&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/46/fe/c4/46fec472-08fc-1dcd-8c6e-22124a17233b/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/8a/3a/0a/8a3a0a16-c589-9680-374c-e80eb592803f/mzaf_5877861588835927748.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/22/38/ba22387a-7ea6-561b-549d-7a624635b9fb/mzaf_7822671990473680163.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -2025,7 +1965,7 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/c6/ff/5a/c6ff5ab9-689c-f59f-c7a6-22b9c2c6460d/mzaf_6569380882556347353.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/45/0c/b9450c4d-d9d3-48de-dfe5-d2ba3acb0631/mzaf_12773771206650275902.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -2037,31 +1977,19 @@ export const spitz: Music[] = [
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/cd/06/f2/cd06f2b2-7631-6112-eadf-3b704f9aacd3/mzaf_941028602295168187.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/94/6d/d8946d2e-4665-e1b2-b738-2ff903024b25/mzaf_12753546448170830511.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'インディゴ地平線',
+    trackName: '放浪カモメはどこまでも',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B4%E5%9C%B0%E5%B9%B3%E7%B7%9A/1440746376?i=1440746766&uo=4',
+      'https://music.apple.com/jp/album/%E6%94%BE%E6%B5%AA%E3%82%AB%E3%83%A2%E3%83%A1%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E3%82%82-album-mix/1440655458?i=1440655652&uo=4',
     artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1f/70/7d/1f707dfa-03a4-77ac-52b3-0182929aebdf/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/8b/8b/578b8bed-0737-17d5-ba24-8445e1b9de9e/mzaf_14960407563763339873.plus.aac.p.m4a',
-  },
-  {
-    artistName: 'スピッツ',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
-    trackName: 'サンシャイン',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3/1440778533?i=1440779342&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/58/30/be/5830be1c-dcc4-0100-f448-c76c75da5bf4/mzaf_2077782444724269625.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c2/18/e1/c218e1cc-a0af-8447-9491-72ce1159bbf5/mzaf_10333833418788524245.plus.aac.p.m4a',
   },
   {
     artistName: 'スピッツ',
@@ -2074,5 +2002,53 @@ export const spitz: Music[] = [
       'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
     previewUrl:
       'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/19/31/62193120-146b-1320-dcd9-7e9b78813a59/mzaf_12562540240515944882.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'プール',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%97%E3%83%BC%E3%83%AB/1440647452?i=1440647562&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/62/04/7b/62047b82-469e-a9d0-a8db-459e2c0eacda/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e3/10/7a/e3107af2-83a2-8510-e370-c2e6fb286184/mzaf_17187051679261447219.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'ラズベリー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC/1440778533?i=1440779034&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/98/e3/e8/98e3e861-e65b-803a-719e-faf083d16f13/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/8e/09/f48e0971-4333-998d-c09a-55e0f7818a4e/mzaf_3944774098285997919.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: '甘い手',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E7%94%98%E3%81%84%E6%89%8B/1440655458?i=1440655699&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/d4/33/88d4338e-e64f-2891-1e4a-22d9885d6f3b/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/c7/29/dcc72925-217c-e391-5ff0-99d9648cd877/mzaf_13818182940665531448.plus.aac.p.m4a',
+  },
+  {
+    artistName: 'スピッツ',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84/74456960?uo=4',
+    trackName: 'センチメンタル',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB/1440649306?i=1440649481&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bc/cd/ef/bccdefd5-c5b9-e1eb-963d-ac1ec120dac4/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/71/8e/dd718e2f-e5a9-e859-2df7-54088c6786ed/mzaf_18142591616694013775.plus.aac.p.m4a',
   },
 ]

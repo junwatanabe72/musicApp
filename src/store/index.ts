@@ -31,8 +31,19 @@ import { novelbright } from './artist/novelbright'
 import { dish } from './artist/dish'
 import { exile } from './artist/exile'
 import { kawasakiTakaya } from './artist/kawasakiTakaya'
+import { vaundy } from './artist/vaundy'
+import { ryokuou } from './artist/ryokuou'
+import { radwimps } from './artist/radwimps'
+import { wanuka } from './artist/wanuka'
+import { reol } from './artist/reol'
+// import {mosao}from  './artist/mosao'
 
 export const artistMusicData = {
+  vaundy,
+  ryokuou,
+  radwimps,
+  wanuka,
+  reol,
   ado,
   dish,
   novelbright,
@@ -102,18 +113,22 @@ export const originalArtists = {
   novelbright: 'Novelbright',
   dish: 'DISH//',
   kawasakiTakaya: '川崎鷹也',
+  vaundy: 'Vaundy',
+  ryokuou: '緑黄色社会',
+  // niziu: 'NiziU',
+  radwimps: 'RADWIMPS',
+  wanuka: '和ぬか',
+  // mosao: 'もさを。',
+  reol: 'Reol',
 }
 
 export const lowerCaseArtists = {
   bts: 'bts',
-  higedan: 'official髭男dism',
   eve: 'eve',
   backNumber: 'back+number',
   mrChilren: 'mr.children',
   perfume: 'perfume',
   oneOkRock: 'one+ok+rock',
-  spitz: 'spitz',
-  exile: 'exile',
   fujiSou: '藤井+風',
   ado: 'ado',
   bloomVase: 'bloom+vase',
@@ -121,6 +136,10 @@ export const lowerCaseArtists = {
   daice: 'da-ice',
   novelbright: 'novelbright',
   dish: 'dish//',
+  vaundy: 'vaundy',
+  niziu: 'niziu',
+  radwimps: 'radwimps',
+  reol: 'reol',
 }
 
 const tmp = Object.entries(originalArtists)

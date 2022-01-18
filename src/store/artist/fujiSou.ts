@@ -51,6 +51,18 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: '何なんw',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E4%BD%95%E3%81%AA%E3%82%93w/1505498769?i=1505498777&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/2f/51/7b2f510b-81e2-ed6c-0db7-8538aa661ec5/mzaf_13898723320930974922.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
     trackName: '調子のっちゃって',
     collectionViewUrl:
       'https://music.apple.com/jp/album/%E8%AA%BF%E5%AD%90%E3%81%AE%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%A6/1505498769?i=1505498788&uo=4',
@@ -58,6 +70,18 @@ export const fujiSou: Music[] = [
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
     previewUrl:
       'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/cd/d8/c5cdd8df-ed6c-0696-0423-c2178398ca5f/mzaf_15035786421437781537.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: '燃えよ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E7%87%83%E3%81%88%E3%82%88/1583560892?i=1583560893&uo=4',
+    artworkUrl100:
+      'https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/dd/ef/8b/ddef8b59-2aca-158b-e005-998845869409/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/0c/ee/410cee69-1db9-be0c-5475-b071f5bb05b5/mzaf_6098293490413740581.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -75,13 +99,13 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: '何なんw',
+    trackName: 'もうええわ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E4%BD%95%E3%81%AA%E3%82%93w/1505498769?i=1505498777&uo=4',
+      'https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%88%E3%81%88%E3%82%8F/1505498769?i=1505498778&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7b/2f/51/7b2f510b-81e2-ed6c-0db7-8538aa661ec5/mzaf_13898723320930974922.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/9e/0d/de9e0dd1-7da5-af85-edd9-2758bd984374/mzaf_994752008485898174.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -99,30 +123,6 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: '特にない',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E7%89%B9%E3%81%AB%E3%81%AA%E3%81%84/1505498769?i=1505498790&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/f1/b0/b0f1b0f5-f085-0167-3e31-ae5e1f26759b/mzaf_7826182150578787308.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'もうええわ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E3%81%88%E3%81%88%E3%82%8F/1505498769?i=1505498778&uo=4',
-    artworkUrl100:
-      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/9e/0d/de9e0dd1-7da5-af85-edd9-2758bd984374/mzaf_994752008485898174.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
     trackName: 'さよならべいべ',
     collectionViewUrl:
       'https://music.apple.com/jp/album/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%B9%E3%81%84%E3%81%B9/1505498769?i=1505498794&uo=4',
@@ -130,6 +130,18 @@ export const fujiSou: Music[] = [
       'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
     previewUrl:
       'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/c1/c5/8fc1c548-93e2-c496-66c4-f970c30824de/mzaf_12068373367539051851.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: '特にない',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E7%89%B9%E3%81%AB%E3%81%AA%E3%81%84/1505498769?i=1505498790&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b9/fa/8a/b9fa8abc-99a5-23f4-7e49-7bff04eaaac4/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b0/f1/b0/b0f1b0f5-f085-0167-3e31-ae5e1f26759b/mzaf_7826182150578787308.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -165,7 +177,7 @@ export const fujiSou: Music[] = [
     artworkUrl100:
       'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/56/2b/1c562b0d-ba6c-77ff-1d6f-272e97d56556/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/1c/e3/86/1ce386b7-264a-5da6-c364-776b15d59527/mzaf_10721443479325078597.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/cf/6d/aacf6dfa-92a9-af2f-ff31-28f203803aea/mzaf_13548910349791659708.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -183,37 +195,13 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Good As Hell',
+    trackName: 'Close to you',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/good-as-hell/1542503949?i=1542503952&uo=4',
+      'https://music.apple.com/jp/album/close-to-you/1565892276?i=1565892280&uo=4',
     artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1a/44/8a/1a448af8-b538-b031-05be-071111adfcf8/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/14/1f/52/141f520e-a555-4e1b-8177-cfbb4dc799d1/mzaf_5686897162129867864.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Sorry',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/sorry/1538080601?i=1538080784&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b2/63/15/b26315c7-dcb5-9cb2-9ae8-464a2e4d7f30/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e0/40/8e/e0408ea6-0f51-b596-45b2-bd252634c418/mzaf_4061468182278262483.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Just the two of us',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/just-the-two-of-us/1538080601?i=1538080779&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b2/63/15/b26315c7-dcb5-9cb2-9ae8-464a2e4d7f30/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/07/c9/52/07c95218-e108-5d4a-a25f-60f947fcef90/mzaf_17831108300846236660.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/8b/09/ae8b09df-b854-5548-5dd3-0c5af4e37f95/mzaf_1299102152900098465.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -231,13 +219,25 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Be Alright',
+    trackName: 'Good As Hell',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/be-alright/1491278454?i=1491278464&uo=4',
+      'https://music.apple.com/jp/album/good-as-hell/1542503949?i=1542503952&uo=4',
     artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/60/25/27/602527cd-5d19-8a8f-665a-2ef2ec781623/source/100x100bb.jpg',
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1a/44/8a/1a448af8-b538-b031-05be-071111adfcf8/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/20/f5/3f/20f53fe6-6068-7aac-2115-2e38ee78a684/mzaf_16902069317328386066.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/14/1f/52/141f520e-a555-4e1b-8177-cfbb4dc799d1/mzaf_5686897162129867864.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: 'Just the two of us',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/just-the-two-of-us/1538080601?i=1538080779&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b2/63/15/b26315c7-dcb5-9cb2-9ae8-464a2e4d7f30/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/07/c9/52/07c95218-e108-5d4a-a25f-60f947fcef90/mzaf_17831108300846236660.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -245,23 +245,47 @@ export const fujiSou: Music[] = [
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
     trackName: 'Shake It Off',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/shake-it-off/1487744574?i=1487744583&uo=4',
+      'https://music.apple.com/jp/album/shake-it-off/1565892276?i=1565892672&uo=4',
     artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/1b/01/97/1b0197cc-7b40-239c-2df9-3004ff18ffa7/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/0a/84/8c/0a848c34-736d-cc3e-ffd9-6a8c23bcb400/mzaf_7532233717805858149.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/80/9a/03809ab7-5267-4515-5ead-49ce7cabef0e/mzaf_8736915657991452788.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Close to you',
+    trackName: 'Sorry',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/close-to-you/1565892276?i=1565892280&uo=4',
+      'https://music.apple.com/jp/album/sorry/1538080601?i=1538080784&uo=4',
+    artworkUrl100:
+      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b2/63/15/b26315c7-dcb5-9cb2-9ae8-464a2e4d7f30/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/e0/40/8e/e0408ea6-0f51-b596-45b2-bd252634c418/mzaf_4061468182278262483.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: 'Back Stabbers',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/back-stabbers/1565892276?i=1565892283&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/8b/09/ae8b09df-b854-5548-5dd3-0c5af4e37f95/mzaf_1299102152900098465.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/2f/af/402faf8d-c5f4-59b4-f582-0be0d1c4fe2f/mzaf_6827513545559297718.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: 'Shape Of You',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/shape-of-you/1565892276?i=1565892282&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/fd/36/9dfd3634-acd0-7ab4-e195-08c5caabe928/mzaf_16795654174640396268.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -291,6 +315,18 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
+    trackName: 'Stronger Than Me',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/stronger-than-me/1565892276?i=1565892682&uo=4',
+    artworkUrl100:
+      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/60/ad/0d/60ad0d43-76c5-1253-9a82-3ae5034f7f11/mzaf_12576503783670683167.plus.aac.p.m4a',
+  },
+  {
+    artistName: '藤井 風',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
     trackName: 'Sunny',
     collectionViewUrl:
       'https://music.apple.com/jp/album/sunny/1538080601?i=1538080783&uo=4',
@@ -303,49 +339,13 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Back Stabbers',
+    trackName: 'Be Alright',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/back-stabbers/1565892276?i=1565892283&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/2f/af/402faf8d-c5f4-59b4-f582-0be0d1c4fe2f/mzaf_6827513545559297718.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: "Don't Let Me Be Misunderstood",
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/dont-let-me-be-misunderstood/1487744574?i=1487744582&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/1b/01/97/1b0197cc-7b40-239c-2df9-3004ff18ffa7/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/96/1e/49/961e49d0-0a64-db82-2a99-6db6c6b8dc08/mzaf_10554523764638286256.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Shape Of You',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/shape-of-you/1491278454?i=1491278461&uo=4',
+      'https://music.apple.com/jp/album/be-alright/1491278454?i=1491278464&uo=4',
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/60/25/27/602527cd-5d19-8a8f-665a-2ef2ec781623/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/4d/72/06/4d720653-9f3d-586c-0380-7d2a427d24d6/mzaf_13958409962645910224.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Alfie',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/alfie/1565892276?i=1565892285&uo=4',
-    artworkUrl100:
-      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/85/03/0685039e-e820-660b-f7ad-b6a30c12a9c3/mzaf_6989428226914907298.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/20/f5/3f/20f53fe6-6068-7aac-2115-2e38ee78a684/mzaf_16902069317328386066.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -363,13 +363,13 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Stronger Than Me',
+    trackName: 'Alfie',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/stronger-than-me/1565892276?i=1565892682&uo=4',
+      'https://music.apple.com/jp/album/alfie/1565892276?i=1565892285&uo=4',
     artworkUrl100:
       'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/60/ad/0d/60ad0d43-76c5-1253-9a82-3ae5034f7f11/mzaf_12576503783670683167.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/85/03/0685039e-e820-660b-f7ad-b6a30c12a9c3/mzaf_6989428226914907298.plus.aac.p.m4a',
   },
   {
     artistName: '藤井 風',
@@ -387,24 +387,12 @@ export const fujiSou: Music[] = [
     artistName: '藤井 風',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'YASASHISA',
+    trackName: "Don't Let Me Be Misunderstood",
     collectionViewUrl:
-      'https://music.apple.com/jp/album/yasashisa/1558554754?i=1558555719&uo=4',
+      'https://music.apple.com/jp/album/dont-let-me-be-misunderstood/1565892276?i=1565892302&uo=4',
     artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/d6/a6/9d/d6a69dc5-41a2-1de3-ebb4-3bf842229a3d/source/100x100bb.jpg',
+      'https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ff/5c/bd/ff5cbd96-990f-bee1-7191-ee5f0fe41cf5/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/15/a9/f4/15a9f41c-4205-92b4-a43b-4d060127260e/mzaf_581455560401822619.plus.aac.p.m4a',
-  },
-  {
-    artistName: '藤井 風',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=4',
-    trackName: 'Kiri Ga Naikara',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/kiri-ga-naikara/1558532971?i=1558532991&uo=4',
-    artworkUrl100:
-      'https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/1e/1a/fc/1e1afc0c-08d8-7f29-516d-ce91eca007c2/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/57/0f/80/570f80a7-8108-d703-8ace-d07e203c900c/mzaf_14094025609017069684.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/6b/75/356b755e-5ed3-3364-c2ab-9c5b0d74ed07/mzaf_5434680691731339932.plus.aac.p.m4a',
   },
 ]

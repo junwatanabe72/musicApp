@@ -3,25 +3,85 @@ export const yuuri: Music[] = [
     artistName: '優里',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'レオ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%AC%E3%82%AA/1599542521?i=1599543187&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/be/02/6c/be026caa-7c73-ca0f-38c4-047a36c2ee53/mzaf_15545892335967951473.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'ミズキリ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%9F%E3%82%BA%E3%82%AD%E3%83%AA/1599542521?i=1599542722&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/14/b2/27/14b227f4-d266-08fe-329f-ae67efe82e65/mzaf_17594997759993875727.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
     trackName: 'ドライフラワー',
     collectionViewUrl:
       'https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183&uo=4',
     artworkUrl100:
       'https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/58/22/d6/5822d645-9722-4697-2d08-ba02dadfbaa4/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/96/61/02/966102fe-f515-28a4-5432-6f697ff4bdb8/mzaf_14202027333409377127.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/89/14/4d891482-4432-5218-7883-f08f63d75ecd/mzaf_5249552111314435454.plus.aac.p.m4a',
   },
   {
     artistName: '優里',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
-    trackName: 'かくれんぼ',
+    trackName: '夏音',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC/1489118271?i=1489118273&uo=4',
+      'https://music.apple.com/jp/album/%E5%A4%8F%E9%9F%B3/1599542521?i=1599543204&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/42/27/8e4227f0-512a-c9ac-9f47-13d0ee701953/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/96/35/3696350c-25e7-bbf4-f05a-95135d19d560/mzaf_16903415697795456094.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/46/4f/a5/464fa5b9-45b6-08f5-44a1-dcd3af34f95d/mzaf_3633474624671427490.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: '花鳥風月',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%8A%B1%E9%B3%A5%E9%A2%A8%E6%9C%88/1599542521?i=1599542720&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/48/c1/3a48c1b6-d0d6-66cc-53a1-2b8e5c18ddbb/mzaf_11729650011899179436.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'スマホウォーズ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA/1599542521?i=1599543194&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e2/ca/7f/e2ca7f04-a1b3-e965-7b10-6789cdfe46c9/mzaf_6981671859566513707.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'ミザリー',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%9F%E3%82%B6%E3%83%AA%E3%83%BC/1599542521?i=1599542732&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/b7/d6/d4b7d691-7efe-2788-b43b-78e52e083447/mzaf_17120571279727932987.plus.aac.p.m4a',
   },
   {
     artistName: '優里',
@@ -29,47 +89,23 @@ export const yuuri: Music[] = [
       'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
     trackName: 'かごめ',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%81%8B%E3%81%94%E3%82%81/1499962849?i=1499962852&uo=4',
+      'https://music.apple.com/jp/album/%E3%81%8B%E3%81%94%E3%82%81/1599542521?i=1599543488&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d5/e3/df/d5e3df10-1c64-ca6c-9646-9a029c5f07bc/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/de/8c/63de8c75-f17b-4f4e-b21b-ee1fb8fbfdcf/mzaf_15847329419828652318.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/fa/1c/c1fa1c20-32fe-34ee-6fda-346cea30d7e1/mzaf_16021527904966699003.plus.aac.p.m4a',
   },
   {
     artistName: '優里',
     artistViewUrl:
       'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
-    trackName: 'ピーターパン',
+    trackName: 'ベテルギウス',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%91%E3%83%B3/1538123310?i=1538123311&uo=4',
+      'https://music.apple.com/jp/album/%E3%83%99%E3%83%86%E3%83%AB%E3%82%AE%E3%82%A6%E3%82%B9/1589915043?i=1589915077&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/c4/1b/e0c41b20-5c9b-cf69-4bec-dcbe3990e2ff/source/100x100bb.jpg',
+      'https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/7d/bf/d7/7dbfd72e-16d1-a16f-6cc4-3ec8ef64591d/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/3d/6f/aa/3d6faa04-cfdd-49a4-ff6a-8ba706b04a5c/mzaf_7633115669661503641.plus.aac.p.m4a',
-  },
-  {
-    artistName: '優里',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
-    trackName: 'インフィニティ',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3/1545892486?i=1545892487&uo=4',
-    artworkUrl100:
-      'https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/a8/39/89/a8398942-1f61-6dc0-80b2-7ae119b1a353/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/3e/0f/3a3e0f6f-c054-c5c8-dc2d-227e18399c1d/mzaf_9748735717692608121.plus.aac.p.m4a',
-  },
-  {
-    artistName: '優里',
-    artistViewUrl:
-      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
-    trackName: '飛行船',
-    collectionViewUrl:
-      'https://music.apple.com/jp/album/%E9%A3%9B%E8%A1%8C%E8%88%B9/1561100905?i=1561100912&uo=4',
-    artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/81/3d/65813d07-c565-9ece-370f-dd8d2a1cff28/source/100x100bb.jpg',
-    previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b2/2b/e0/b22be0f4-a5ca-ba1e-cdd0-33f4bcae1e1f/mzaf_11786608093521485322.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/9e/b1/9e9eb115-0a62-6902-9856-5797d36a03ab/mzaf_2779377971694056864.plus.aac.p.m4a',
   },
   {
     artistName: '優里',
@@ -77,11 +113,83 @@ export const yuuri: Music[] = [
       'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
     trackName: '桜晴',
     collectionViewUrl:
-      'https://music.apple.com/jp/album/%E6%A1%9C%E6%99%B4/1551902199?i=1551902206&uo=4',
+      'https://music.apple.com/jp/album/%E6%A1%9C%E6%99%B4/1599542521?i=1599543490&uo=4',
     artworkUrl100:
-      'https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/2b/fb/7e2bfb95-08a9-39f7-b676-c757292e7579/source/100x100bb.jpg',
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/6e/e4/546ee4f5-5df4-a143-7716-4bd0ce87e13e/mzaf_5682298658500825049.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9a/d7/0f/9ad70fa3-bc98-1b27-790b-4b82d403b18d/mzaf_906065087341416905.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'かくれんぼ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC/1599542521?i=1599543727&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/94/ff/cd/94ffcd96-c523-f2ec-9b2c-91f8df1f9762/mzaf_4661497270936650851.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'インフィニティ',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3/1599542521?i=1599543509&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c3/cb/a0/c3cba010-90dd-1ba8-a03d-e2399367be1a/mzaf_14681958026204238203.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'ピーターパン',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%91%E3%83%B3/1599542521?i=1599543191&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e5/31/3d/e5313d4e-deb9-e08d-1294-e580ae4eed8c/mzaf_14347651445254601485.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: 'シャッター',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC/1599542521?i=1599542729&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/be/9d/09/be9d09dd-6dba-eb84-ddbb-ffe83647c3d9/mzaf_6358748480823333628.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: '背中',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E8%83%8C%E4%B8%AD/1599542521?i=1599543209&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3b/25/c1/3b25c133-2dbd-5f9b-1b40-8f585bd4f614/mzaf_14452127612798105715.plus.aac.p.m4a',
+  },
+  {
+    artistName: '優里',
+    artistViewUrl:
+      'https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=4',
+    trackName: '飛行船',
+    collectionViewUrl:
+      'https://music.apple.com/jp/album/%E9%A3%9B%E8%A1%8C%E8%88%B9/1599542521?i=1599543513&uo=4',
+    artworkUrl100:
+      'https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/cf/90/d4/cf90d443-8ed4-4000-3892-0e87416f0ea7/source/100x100bb.jpg',
+    previewUrl:
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/11/f2/89/11f2897c-0e46-6cce-0d93-caf9c756f8d6/mzaf_8948371976283402766.plus.aac.p.m4a',
   },
   {
     artistName: '優里',
@@ -93,6 +201,6 @@ export const yuuri: Music[] = [
     artworkUrl100:
       'https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/2e/ab/66/2eab66a1-b6c5-f25b-faa3-aef34fdf3bad/source/100x100bb.jpg',
     previewUrl:
-      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/d6/6c/4d/d66c4d24-92f5-ecdf-148f-be070b735f6a/mzaf_929813180101787262.plus.aac.p.m4a',
+      'https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/73/44/5e/73445eda-6abd-22ea-6aea-a6b4327a29aa/mzaf_10334629659020009139.plus.aac.p.m4a',
   },
 ]
