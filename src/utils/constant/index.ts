@@ -44,9 +44,6 @@ export const clearText = {
 // dialog
 export const incorrectText = '不正解です'
 
-// ad
-export const ninjaID = '4c4b0d6cd43a0a4edd0bbc2e900f85ff'
-
 // kyokuate
 export const answer = {
   isCorrect: 'isCorrect',

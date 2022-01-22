@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { iTunesUrl, ninjaID } from 'utils/constant'
-import AdmaxSwitch from 'components/templetes/Ninja'
+import { iTunesUrl } from 'utils/constant'
 import { Flex, StyledA } from 'utils/styled/common'
 import { media } from 'utils/styled/media'
 
@@ -22,9 +21,7 @@ const Column = styled(Flex)`
   height: 70vh;
       `}
 `
-const AdHeight = styled.div`
-  height: 60px;
-`
+
 const Bottom = styled.div`
   position: absolute;
   bottom: -15vh;
@@ -37,9 +34,6 @@ const Layout: React.FC = ({ children }) => {
   return (
     <Container>
       <StyledContainer>
-        <AdHeight>
-          <AdmaxSwitch id={ninjaID} />
-        </AdHeight>
         <Column>{children}</Column>
         <Bottom>
           このwebサイトは
