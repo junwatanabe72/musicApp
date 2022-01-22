@@ -1,23 +1,23 @@
-## 不動産所有期間チェッカー
+## musicApp
 
 ---
 
-不動産の所有期間を確認するアプリです。  
-不動産を売却した際、所有期間によって税率が異なります。  
-所有期間の考え方がややこしいので、直感的にわかりやすく判定してくれるツールがほしいなと  
-長年、考えていたので自分で作成しました笑  
-取得した年をタップするだけの簡単設計となっています。
+対象アーティストの曲名を当てるアプリです。  
+Apple Music API のサンプル音源を使用しています。  
+お気に入りの曲があれば、iTunes よりご購入をお願いいたします。  
+os によって、音楽が流れたり流れなかったり(特に ios)。。  
+多分大丈夫です。。
 
-[トップ画面](https://golfersfarm.com/users/3)<img width="816" alt="スクリーンショット 2021-06-02 17 35 09" src="https://user-images.githubusercontent.com/79444103/120449509-6cbbf700-c3ca-11eb-841f-eadb3977a84f.png">
+[トップ画面](https://kyokuate.netlify.app)<img width="816" alt="スクリーンショット 2021-06-02 17 35 09" src="https://user-images.githubusercontent.com/50585862/150622081-ef8de60a-da6d-40cd-95a2-10c04d6cfe18.png">
 
 ## アプリの概要
 
 ---
 
-- 名称： 不動産所有期間チェッカー
-- site： https://real-estate-holding-period-checker.work/
+- 名称： musicApp
+- site： https://kyokuate.netlify.app
 - 目的：
-  不動産の所有期間を判定したい。
+  Apple Music API の使ってみる。
 
 ## 使用した技術
 
@@ -26,6 +26,9 @@
 フロントエンド
 
 - react
+- redux
+- react-redux
+- react-howler
 - material-ui
 - typescript
 - eslint + prettier
